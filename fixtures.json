@@ -108,6 +108,150 @@
     }
   },
   {
+    "id": "generated:bartley reds u18 east|bartley reds u18|13/09/26 10:30",
+    "division_id": "681048665",
+    "division_name": "U18 Division 4",
+    "home_team_id": null,
+    "home_team": "Bartley Reds U18 East",
+    "away_team_id": null,
+    "away_team": "Bartley Reds U18",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Bartley Reds U18 East",
+      "awayTeam": "Bartley Reds U18",
+      "location": "HADLEY STADIUM 3G Pitch 1 - 10:30AM",
+      "competition": "U18 Division 4"
+    }
+  },
+  {
+    "id": "generated:midland rangers u17|bournville warriors u17 santos|13/09/26 10:30",
+    "division_id": "681048665",
+    "division_name": "U18 Division 4",
+    "home_team_id": null,
+    "home_team": "Midland Rangers U17",
+    "away_team_id": null,
+    "away_team": "Bournville Warriors U17 Santos",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Midland Rangers U17",
+      "awayTeam": "Bournville Warriors U17 Santos",
+      "location": "GREEN LANE PLAYING FIELDS Pitch 1 - 10:30AM",
+      "competition": "U18 Division 4"
+    }
+  },
+  {
+    "id": "generated:walmley csc u18|west hagley u18|13/09/26 12:30",
+    "division_id": "681048665",
+    "division_name": "U18 Division 4",
+    "home_team_id": null,
+    "home_team": "Walmley CSC U18",
+    "away_team_id": null,
+    "away_team": "West Hagley U18",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Walmley CSC U18",
+      "awayTeam": "West Hagley U18",
+      "location": "SPRING LANE PLAYING FIELDS Pitch 1 - 12.30PM",
+      "competition": "U18 Division 4"
+    }
+  },
+  {
+    "id": "generated:redditch united u18 gc|harborne youth u18|13/09/26 14:30",
+    "division_id": "681048665",
+    "division_name": "U18 Division 4",
+    "home_team_id": null,
+    "home_team": "Redditch United U18 GC",
+    "away_team_id": null,
+    "away_team": "Harborne Youth U18",
+    "date": "13/09/26 14:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 14:30",
+      "homeTeam": "Redditch United U18 GC",
+      "awayTeam": "Harborne Youth U18",
+      "location": "REDDITCH UNITED FOOTBALL CLUB RED4 - 14:30PM 3G",
+      "competition": "U18 Division 4"
+    }
+  },
+  {
+    "id": "generated:bournville warriors u18|maypole u17 united|13/09/26 11:30",
+    "division_id": null,
+    "division_name": "Sunday Youth Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Bournville Warriors U18",
+    "away_team_id": null,
+    "away_team": "Maypole U17 United",
+    "date": "13/09/26 11:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:30",
+      "homeTeam": "Bournville Warriors U18",
+      "awayTeam": "Maypole U17 United",
+      "location": "SHENLEY ACADEMY",
+      "competition": "Sunday Youth Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:bournville warriors u17 santos|glades rangers u18 -|20/09/26 11:30",
+    "division_id": null,
+    "division_name": "Sunday Youth Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Bournville Warriors U17 Santos",
+    "away_team_id": null,
+    "away_team": "Glades Rangers U18 -",
+    "date": "20/09/26 11:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:30",
+      "homeTeam": "Bournville Warriors U17 Santos",
+      "awayTeam": "Glades Rangers U18 -",
+      "location": "SHENLEY ACADEMY",
+      "competition": "Sunday Youth Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:bartley reds u18|ambleside junior u18 athletic|20/09/26 13:30",
+    "division_id": null,
+    "division_name": "Sunday Youth Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Bartley Reds U18",
+    "away_team_id": null,
+    "away_team": "Ambleside Junior U18 Athletic",
+    "date": "20/09/26 13:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 13:30",
+      "homeTeam": "Bartley Reds U18",
+      "awayTeam": "Ambleside Junior U18 Athletic",
+      "location": "SHENLEY ACADEMY",
+      "competition": "Sunday Youth Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:west hagley u18|catshill u17 whites|11/10/26 14:00",
+    "division_id": null,
+    "division_name": "WFA Sunday U18 Cup",
+    "home_team_id": null,
+    "home_team": "West Hagley U18",
+    "away_team_id": null,
+    "away_team": "Catshill U17 Whites",
+    "date": "11/10/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "11/10/26 14:00",
+      "homeTeam": "West Hagley U18",
+      "awayTeam": "Catshill U17 Whites",
+      "location": "West Hagley (Juniors) U14 Stourbridge",
+      "competition": "WFA Sunday U18 Cup"
+    }
+  },
+  {
     "id": "generated:elford boys u18 dynamo|boldmere falcons u18|13/09/26 10:30",
     "division_id": "104609968",
     "division_name": "U18 Division 2",
@@ -306,24 +450,6 @@
     }
   },
   {
-    "id": "generated:bournville warriors u18|maypole u17 united|13/09/26 11:30",
-    "division_id": null,
-    "division_name": "Sunday Youth Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Bournville Warriors U18",
-    "away_team_id": null,
-    "away_team": "Maypole U17 United",
-    "date": "13/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:30",
-      "homeTeam": "Bournville Warriors U18",
-      "awayTeam": "Maypole U17 United",
-      "location": "SHENLEY ACADEMY",
-      "competition": "Sunday Youth Challenge Cup"
-    }
-  },
-  {
     "id": "generated:academykicks u17 tigers|kidderminster harriers youth u18 nh|11/10/26 14:00",
     "division_id": null,
     "division_name": "WFA Sunday U18 Cup",
@@ -357,204 +483,6 @@
       "awayTeam": "Kidderminster Athletic U17 Flames",
       "location": "Bretforton FC U15 CWYFL",
       "competition": "WFA Sunday U18 Cup"
-    }
-  },
-  {
-    "id": "generated:bartley reds u18 east|bartley reds u18|13/09/26 10:30",
-    "division_id": "681048665",
-    "division_name": "U18 Division 4",
-    "home_team_id": null,
-    "home_team": "Bartley Reds U18 East",
-    "away_team_id": null,
-    "away_team": "Bartley Reds U18",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Bartley Reds U18 East",
-      "awayTeam": "Bartley Reds U18",
-      "location": "HADLEY STADIUM 3G Pitch 1 - 10:30AM",
-      "competition": "U18 Division 4"
-    }
-  },
-  {
-    "id": "generated:midland rangers u17|bournville warriors u17 santos|13/09/26 10:30",
-    "division_id": "681048665",
-    "division_name": "U18 Division 4",
-    "home_team_id": null,
-    "home_team": "Midland Rangers U17",
-    "away_team_id": null,
-    "away_team": "Bournville Warriors U17 Santos",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Midland Rangers U17",
-      "awayTeam": "Bournville Warriors U17 Santos",
-      "location": "GREEN LANE PLAYING FIELDS Pitch 1 - 10:30AM",
-      "competition": "U18 Division 4"
-    }
-  },
-  {
-    "id": "generated:walmley csc u18|west hagley u18|13/09/26 12:30",
-    "division_id": "681048665",
-    "division_name": "U18 Division 4",
-    "home_team_id": null,
-    "home_team": "Walmley CSC U18",
-    "away_team_id": null,
-    "away_team": "West Hagley U18",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Walmley CSC U18",
-      "awayTeam": "West Hagley U18",
-      "location": "SPRING LANE PLAYING FIELDS Pitch 1 - 12.30PM",
-      "competition": "U18 Division 4"
-    }
-  },
-  {
-    "id": "generated:redditch united u18 gc|harborne youth u18|13/09/26 14:30",
-    "division_id": "681048665",
-    "division_name": "U18 Division 4",
-    "home_team_id": null,
-    "home_team": "Redditch United U18 GC",
-    "away_team_id": null,
-    "away_team": "Harborne Youth U18",
-    "date": "13/09/26 14:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 14:30",
-      "homeTeam": "Redditch United U18 GC",
-      "awayTeam": "Harborne Youth U18",
-      "location": "REDDITCH UNITED FOOTBALL CLUB RED4 - 14:30PM 3G",
-      "competition": "U18 Division 4"
-    }
-  },
-  {
-    "id": "generated:bournville warriors u17 santos|glades rangers u18 -|20/09/26 11:30",
-    "division_id": null,
-    "division_name": "Sunday Youth Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Bournville Warriors U17 Santos",
-    "away_team_id": null,
-    "away_team": "Glades Rangers U18 -",
-    "date": "20/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 11:30",
-      "homeTeam": "Bournville Warriors U17 Santos",
-      "awayTeam": "Glades Rangers U18 -",
-      "location": "SHENLEY ACADEMY",
-      "competition": "Sunday Youth Challenge Cup"
-    }
-  },
-  {
-    "id": "generated:bartley reds u18|ambleside junior u18 athletic|20/09/26 13:30",
-    "division_id": null,
-    "division_name": "Sunday Youth Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Bartley Reds U18",
-    "away_team_id": null,
-    "away_team": "Ambleside Junior U18 Athletic",
-    "date": "20/09/26 13:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 13:30",
-      "homeTeam": "Bartley Reds U18",
-      "awayTeam": "Ambleside Junior U18 Athletic",
-      "location": "SHENLEY ACADEMY",
-      "competition": "Sunday Youth Challenge Cup"
-    }
-  },
-  {
-    "id": "generated:west hagley u18|catshill u17 whites|11/10/26 14:00",
-    "division_id": null,
-    "division_name": "WFA Sunday U18 Cup",
-    "home_team_id": null,
-    "home_team": "West Hagley U18",
-    "away_team_id": null,
-    "away_team": "Catshill U17 Whites",
-    "date": "11/10/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "11/10/26 14:00",
-      "homeTeam": "West Hagley U18",
-      "awayTeam": "Catshill U17 Whites",
-      "location": "West Hagley (Juniors) U14 Stourbridge",
-      "competition": "WFA Sunday U18 Cup"
-    }
-  },
-  {
-    "id": "generated:cradley town d c u18 youth|cottage farm rangers u17|13/09/26 10:30",
-    "division_id": "130639926",
-    "division_name": "U18 Division 6",
-    "home_team_id": null,
-    "home_team": "Cradley Town D C U18 Youth",
-    "away_team_id": null,
-    "away_team": "Cottage Farm Rangers U17",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Cradley Town D C U18 Youth",
-      "awayTeam": "Cottage Farm Rangers U17",
-      "location": "BRITANNIA PARK (ROWLEY REGIS) Pitch 1 - 10:30AM",
-      "competition": "U18 Division 6"
-    }
-  },
-  {
-    "id": "generated:sheldon renegades u18|great barr harriers u17|13/09/26 10:30",
-    "division_id": "130639926",
-    "division_name": "U18 Division 6",
-    "home_team_id": null,
-    "home_team": "Sheldon Renegades U18",
-    "away_team_id": null,
-    "away_team": "Great Barr Harriers U17",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Sheldon Renegades U18",
-      "awayTeam": "Great Barr Harriers U17",
-      "location": "OLTON JUBILEE PARK Pitch 1 - 10:30AM",
-      "competition": "U18 Division 6"
-    }
-  },
-  {
-    "id": "generated:solihull u17 n|unity sport club u17|13/09/26 12:30",
-    "division_id": "130639926",
-    "division_name": "U18 Division 6",
-    "home_team_id": null,
-    "home_team": "Solihull U17 N",
-    "away_team_id": null,
-    "away_team": "Unity Sport Club U17",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Solihull U17 N",
-      "awayTeam": "Unity Sport Club U17",
-      "location": "SILHILLIANS SPORTS CLUB Pitch 1 - 12.30PM",
-      "competition": "U18 Division 6"
-    }
-  },
-  {
-    "id": "generated:lydiate ash u17|dosthill colts u17 reds|13/09/26 14:00",
-    "division_id": null,
-    "division_name": "U18 Presidents Cups",
-    "home_team_id": null,
-    "home_team": "Lydiate Ash U17",
-    "away_team_id": null,
-    "away_team": "Dosthill Colts U17 Reds",
-    "date": "13/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 14:00",
-      "homeTeam": "Lydiate Ash U17",
-      "awayTeam": "Dosthill Colts U17 Reds",
-      "location": "KING GEORGE V PLAYING FIELD (BROMSGROVE) Pitch 1 - 14:00PM",
-      "competition": "U18 Presidents Cups"
     }
   },
   {
@@ -666,165 +594,75 @@
     }
   },
   {
-    "id": "generated:silhill u16 saints|halesowen town boys u16 cwyfl|13/09/26 09:30",
-    "division_id": "333324877",
-    "division_name": "U16 Premier Division",
+    "id": "generated:cradley town d c u18 youth|cottage farm rangers u17|13/09/26 10:30",
+    "division_id": "130639926",
+    "division_name": "U18 Division 6",
     "home_team_id": null,
-    "home_team": "Silhill U16 Saints",
+    "home_team": "Cradley Town D C U18 Youth",
     "away_team_id": null,
-    "away_team": "Halesowen Town Boys U16 CWYFL",
-    "date": "13/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 09:30",
-      "homeTeam": "Silhill U16 Saints",
-      "awayTeam": "Halesowen Town Boys U16 CWYFL",
-      "location": "TUDOR GRANGE ACADEMY SOLIHULL 3G Pitch 1 - 09:30AM",
-      "competition": "U16 Premier Division"
-    }
-  },
-  {
-    "id": "generated:solihull youth academy u16 ny|hampton u16|13/09/26 10:30",
-    "division_id": "333324877",
-    "division_name": "U16 Premier Division",
-    "home_team_id": null,
-    "home_team": "Solihull Youth Academy U16 NY",
-    "away_team_id": null,
-    "away_team": "Hampton U16",
+    "away_team": "Cottage Farm Rangers U17",
     "date": "13/09/26 10:30",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Solihull Youth Academy U16 NY",
-      "awayTeam": "Hampton U16",
-      "location": "IRISH CENTRE BIRMINGHAM 3G Pitch 1 - 10:30AM",
-      "competition": "U16 Premier Division"
+      "homeTeam": "Cradley Town D C U18 Youth",
+      "awayTeam": "Cottage Farm Rangers U17",
+      "location": "BRITANNIA PARK (ROWLEY REGIS) Pitch 1 - 10:30AM",
+      "competition": "U18 Division 6"
     }
   },
   {
-    "id": "generated:sutton united u16 panthers|solihull u16 w|13/09/26 15:00",
-    "division_id": "333324877",
-    "division_name": "U16 Premier Division",
+    "id": "generated:sheldon renegades u18|great barr harriers u17|13/09/26 10:30",
+    "division_id": "130639926",
+    "division_name": "U18 Division 6",
     "home_team_id": null,
-    "home_team": "Sutton United U16 Panthers",
+    "home_team": "Sheldon Renegades U18",
     "away_team_id": null,
-    "away_team": "Solihull U16 W",
-    "date": "13/09/26 15:00",
+    "away_team": "Great Barr Harriers U17",
+    "date": "13/09/26 10:30",
     "status": null,
     "raw": {
-      "fixtureDateTime": "13/09/26 15:00",
-      "homeTeam": "Sutton United U16 Panthers",
-      "awayTeam": "Solihull U16 W",
-      "location": "SUTTON UNITED FC (COLESHILL ROAD NURSERIES) 3G Pitch 1 - 15:00PM",
-      "competition": "U16 Premier Division"
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Sheldon Renegades U18",
+      "awayTeam": "Great Barr Harriers U17",
+      "location": "OLTON JUBILEE PARK Pitch 1 - 10:30AM",
+      "competition": "U18 Division 6"
     }
   },
   {
-    "id": "generated:sheldon royals u16|rubery juniors u16 dc|13/09/26 14:00",
-    "division_id": null,
-    "division_name": "U16 Open Cup",
+    "id": "generated:solihull u17 n|unity sport club u17|13/09/26 12:30",
+    "division_id": "130639926",
+    "division_name": "U18 Division 6",
     "home_team_id": null,
-    "home_team": "Sheldon Royals U16",
+    "home_team": "Solihull U17 N",
     "away_team_id": null,
-    "away_team": "Rubery Juniors U16 DC",
+    "away_team": "Unity Sport Club U17",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Solihull U17 N",
+      "awayTeam": "Unity Sport Club U17",
+      "location": "SILHILLIANS SPORTS CLUB Pitch 1 - 12.30PM",
+      "competition": "U18 Division 6"
+    }
+  },
+  {
+    "id": "generated:lydiate ash u17|dosthill colts u17 reds|13/09/26 14:00",
+    "division_id": null,
+    "division_name": "U18 Presidents Cups",
+    "home_team_id": null,
+    "home_team": "Lydiate Ash U17",
+    "away_team_id": null,
+    "away_team": "Dosthill Colts U17 Reds",
     "date": "13/09/26 14:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 14:00",
-      "homeTeam": "Sheldon Royals U16",
-      "awayTeam": "Rubery Juniors U16 DC",
-      "location": "KING EDWARD VI SHELDON HEATH ACADEMY KESH7 - 14:00PM 3G",
-      "competition": "U16 Open Cup"
-    }
-  },
-  {
-    "id": "generated:hillfield afc u16 white|sheldon royals u16|20/09/26 10:00",
-    "division_id": null,
-    "division_name": "Minor Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Hillfield AFC U16 White",
-    "away_team_id": null,
-    "away_team": "Sheldon Royals U16",
-    "date": "20/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:00",
-      "homeTeam": "Hillfield AFC U16 White",
-      "awayTeam": "Sheldon Royals U16",
-      "location": "HILLFIELD AFC",
-      "competition": "Minor Challenge Cup"
-    }
-  },
-  {
-    "id": "generated:anglesey rec academy u16 wolves|hampton u16|20/09/26 10:30",
-    "division_id": null,
-    "division_name": "Minor Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Anglesey Rec Academy U16 Wolves",
-    "away_team_id": null,
-    "away_team": "Hampton U16",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Anglesey Rec Academy U16 Wolves",
-      "awayTeam": "Hampton U16",
-      "location": "ANGLESEY COMMUNITY PARK",
-      "competition": "Minor Challenge Cup"
-    }
-  },
-  {
-    "id": "generated:coventrians jaguar youth u16|solihull youth academy u16 ny|20/09/26 10:30",
-    "division_id": null,
-    "division_name": "Minor Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Coventrians Jaguar Youth U16",
-    "away_team_id": null,
-    "away_team": "Solihull Youth Academy U16 NY",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Coventrians Jaguar Youth U16",
-      "awayTeam": "Solihull Youth Academy U16 NY",
-      "location": "MOAT HOUSE LEISURE &amp; NEIGHBOURHOOD CENTRE",
-      "competition": "Minor Challenge Cup"
-    }
-  },
-  {
-    "id": "generated:sutton united u16 panthers|coventry warriors u16|20/09/26 15:00",
-    "division_id": null,
-    "division_name": "Minor Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Sutton United U16 Panthers",
-    "away_team_id": null,
-    "away_team": "Coventry Warriors U16",
-    "date": "20/09/26 15:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 15:00",
-      "homeTeam": "Sutton United U16 Panthers",
-      "awayTeam": "Coventry Warriors U16",
-      "location": "SUTTON UNITED FC (COLESHILL ROAD NURSERIES)",
-      "competition": "Minor Challenge Cup"
-    }
-  },
-  {
-    "id": "generated:silhill u16 saints|wordsley wasps u16 warriors|27/09/26 09:30",
-    "division_id": null,
-    "division_name": "Minor Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Silhill U16 Saints",
-    "away_team_id": null,
-    "away_team": "Wordsley Wasps U16 Warriors",
-    "date": "27/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "27/09/26 09:30",
-      "homeTeam": "Silhill U16 Saints",
-      "awayTeam": "Wordsley Wasps U16 Warriors",
-      "location": "SILHILL FOOTBALL CLUB",
-      "competition": "Minor Challenge Cup"
+      "homeTeam": "Lydiate Ash U17",
+      "awayTeam": "Dosthill Colts U17 Reds",
+      "location": "KING GEORGE V PLAYING FIELD (BROMSGROVE) Pitch 1 - 14:00PM",
+      "competition": "U18 Presidents Cups"
     }
   },
   {
@@ -918,24 +756,6 @@
     }
   },
   {
-    "id": "generated:halesowen town colts u17 north|sedgley spartak u17|20/09/26 10:30",
-    "division_id": null,
-    "division_name": "Sunday Youth Challenge Cup",
-    "home_team_id": null,
-    "home_team": "Halesowen Town Colts U17 North",
-    "away_team_id": null,
-    "away_team": "Sedgley Spartak U17",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Halesowen Town Colts U17 North",
-      "awayTeam": "Sedgley Spartak U17",
-      "location": "LIFT FOUR DWELLINGS SECONDARY",
-      "competition": "Sunday Youth Challenge Cup"
-    }
-  },
-  {
     "id": "generated:hillmorton juniors u18|sporting u17|20/09/26 10:30",
     "division_id": null,
     "division_name": "Sunday Youth Challenge Cup",
@@ -950,6 +770,24 @@
       "homeTeam": "Hillmorton Juniors U18",
       "awayTeam": "Sporting U17",
       "location": "WHINFIELD RECREATION GROUND",
+      "competition": "Sunday Youth Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:halesowen town colts u17 north|sedgley spartak u17|20/09/26 12:30",
+    "division_id": null,
+    "division_name": "Sunday Youth Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Halesowen Town Colts U17 North",
+    "away_team_id": null,
+    "away_team": "Sedgley Spartak U17",
+    "date": "20/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:30",
+      "homeTeam": "Halesowen Town Colts U17 North",
+      "awayTeam": "Sedgley Spartak U17",
+      "location": "LIFT FOUR DWELLINGS SECONDARY",
       "competition": "Sunday Youth Challenge Cup"
     }
   },
@@ -1203,6 +1041,168 @@
       "awayTeam": "Meadow Park U16",
       "location": "POWICK PLAYING FIELDS",
       "competition": "WFA Sunday U16 Cup"
+    }
+  },
+  {
+    "id": "generated:silhill u16 saints|halesowen town boys u16 cwyfl|13/09/26 09:30",
+    "division_id": "333324877",
+    "division_name": "U16 Premier Division",
+    "home_team_id": null,
+    "home_team": "Silhill U16 Saints",
+    "away_team_id": null,
+    "away_team": "Halesowen Town Boys U16 CWYFL",
+    "date": "13/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 09:30",
+      "homeTeam": "Silhill U16 Saints",
+      "awayTeam": "Halesowen Town Boys U16 CWYFL",
+      "location": "TUDOR GRANGE ACADEMY SOLIHULL 3G Pitch 1 - 09:30AM",
+      "competition": "U16 Premier Division"
+    }
+  },
+  {
+    "id": "generated:solihull youth academy u16 ny|hampton u16|13/09/26 10:30",
+    "division_id": "333324877",
+    "division_name": "U16 Premier Division",
+    "home_team_id": null,
+    "home_team": "Solihull Youth Academy U16 NY",
+    "away_team_id": null,
+    "away_team": "Hampton U16",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Solihull Youth Academy U16 NY",
+      "awayTeam": "Hampton U16",
+      "location": "IRISH CENTRE BIRMINGHAM 3G Pitch 1 - 10:30AM",
+      "competition": "U16 Premier Division"
+    }
+  },
+  {
+    "id": "generated:sutton united u16 panthers|solihull u16 w|13/09/26 15:00",
+    "division_id": "333324877",
+    "division_name": "U16 Premier Division",
+    "home_team_id": null,
+    "home_team": "Sutton United U16 Panthers",
+    "away_team_id": null,
+    "away_team": "Solihull U16 W",
+    "date": "13/09/26 15:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 15:00",
+      "homeTeam": "Sutton United U16 Panthers",
+      "awayTeam": "Solihull U16 W",
+      "location": "SUTTON UNITED FC (COLESHILL ROAD NURSERIES) 3G Pitch 1 - 15:00PM",
+      "competition": "U16 Premier Division"
+    }
+  },
+  {
+    "id": "generated:sheldon royals u16|rubery juniors u16 dc|13/09/26 14:00",
+    "division_id": null,
+    "division_name": "U16 Open Cup",
+    "home_team_id": null,
+    "home_team": "Sheldon Royals U16",
+    "away_team_id": null,
+    "away_team": "Rubery Juniors U16 DC",
+    "date": "13/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 14:00",
+      "homeTeam": "Sheldon Royals U16",
+      "awayTeam": "Rubery Juniors U16 DC",
+      "location": "KING EDWARD VI SHELDON HEATH ACADEMY KESH7 - 14:00PM 3G",
+      "competition": "U16 Open Cup"
+    }
+  },
+  {
+    "id": "generated:hillfield afc u16 white|sheldon royals u16|20/09/26 10:00",
+    "division_id": null,
+    "division_name": "Minor Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Hillfield AFC U16 White",
+    "away_team_id": null,
+    "away_team": "Sheldon Royals U16",
+    "date": "20/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:00",
+      "homeTeam": "Hillfield AFC U16 White",
+      "awayTeam": "Sheldon Royals U16",
+      "location": "HILLFIELD AFC",
+      "competition": "Minor Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:anglesey rec academy u16 wolves|hampton u16|20/09/26 10:30",
+    "division_id": null,
+    "division_name": "Minor Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Anglesey Rec Academy U16 Wolves",
+    "away_team_id": null,
+    "away_team": "Hampton U16",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Anglesey Rec Academy U16 Wolves",
+      "awayTeam": "Hampton U16",
+      "location": "ANGLESEY COMMUNITY PARK",
+      "competition": "Minor Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:coventrians jaguar youth u16|solihull youth academy u16 ny|20/09/26 10:30",
+    "division_id": null,
+    "division_name": "Minor Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Coventrians Jaguar Youth U16",
+    "away_team_id": null,
+    "away_team": "Solihull Youth Academy U16 NY",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Coventrians Jaguar Youth U16",
+      "awayTeam": "Solihull Youth Academy U16 NY",
+      "location": "MOAT HOUSE LEISURE &amp; NEIGHBOURHOOD CENTRE",
+      "competition": "Minor Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:sutton united u16 panthers|coventry warriors u16|20/09/26 15:00",
+    "division_id": null,
+    "division_name": "Minor Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Sutton United U16 Panthers",
+    "away_team_id": null,
+    "away_team": "Coventry Warriors U16",
+    "date": "20/09/26 15:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 15:00",
+      "homeTeam": "Sutton United U16 Panthers",
+      "awayTeam": "Coventry Warriors U16",
+      "location": "SUTTON UNITED FC (COLESHILL ROAD NURSERIES)",
+      "competition": "Minor Challenge Cup"
+    }
+  },
+  {
+    "id": "generated:silhill u16 saints|wordsley wasps u16 warriors|27/09/26 09:30",
+    "division_id": null,
+    "division_name": "Minor Challenge Cup",
+    "home_team_id": null,
+    "home_team": "Silhill U16 Saints",
+    "away_team_id": null,
+    "away_team": "Wordsley Wasps U16 Warriors",
+    "date": "27/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "27/09/26 09:30",
+      "homeTeam": "Silhill U16 Saints",
+      "awayTeam": "Wordsley Wasps U16 Warriors",
+      "location": "SILHILL FOOTBALL CLUB",
+      "competition": "Minor Challenge Cup"
     }
   },
   {
@@ -1854,6 +1854,78 @@
     }
   },
   {
+    "id": "generated:headless cross youth u16|kingshurst pavilions sports club u16|13/09/26 12:30",
+    "division_id": "515441887",
+    "division_name": "U16 Division 7",
+    "home_team_id": null,
+    "home_team": "Headless Cross Youth U16",
+    "away_team_id": null,
+    "away_team": "Kingshurst Pavilions Sports Club U16",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Headless Cross Youth U16",
+      "awayTeam": "Kingshurst Pavilions Sports Club U16",
+      "location": "MORTON STANLEY PARK Pitch 1 - 12:30PM",
+      "competition": "U16 Division 7"
+    }
+  },
+  {
+    "id": "generated:knowle u16 lions|next generation u16 vipers|13/09/26 12:30",
+    "division_id": "515441887",
+    "division_name": "U16 Division 7",
+    "home_team_id": null,
+    "home_team": "Knowle U16 Lions",
+    "away_team_id": null,
+    "away_team": "Next Generation U16 Vipers",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Knowle U16 Lions",
+      "awayTeam": "Next Generation U16 Vipers",
+      "location": "TUDOR GRANGE LEISURE CENTRE 3G Pitch 1 - 12:30PM",
+      "competition": "U16 Division 7"
+    }
+  },
+  {
+    "id": "generated:olton ravens u16 oh|o d w lions u16|13/09/26 12:30",
+    "division_id": "515441887",
+    "division_name": "U16 Division 7",
+    "home_team_id": null,
+    "home_team": "Olton Ravens U16 OH",
+    "away_team_id": null,
+    "away_team": "O D W Lions U16",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Olton Ravens U16 OH",
+      "awayTeam": "O D W Lions U16",
+      "location": "THE LAND ROVER SPORTS &amp; SOCIAL CLUB Pitch 1 - 12:30PM",
+      "competition": "U16 Division 7"
+    }
+  },
+  {
+    "id": "generated:sporting u16|s j b juniors u16|13/09/26 12:30",
+    "division_id": "515441887",
+    "division_name": "U16 Division 7",
+    "home_team_id": null,
+    "home_team": "Sporting U16",
+    "away_team_id": null,
+    "away_team": "S J B Juniors U16",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Sporting U16",
+      "awayTeam": "S J B Juniors U16",
+      "location": "BROCKHURST ROAD PLAYING FIELD Pitch 2 - 12:30PM",
+      "competition": "U16 Division 7"
+    }
+  },
+  {
     "id": "generated:solihull moors foundation u15 lk cwyfl|solihull u15 w|13/09/26 10:00",
     "division_id": "41912590",
     "division_name": "U15 Premier Division",
@@ -1941,78 +2013,6 @@
       "awayTeam": "Redditch United U15 BW",
       "location": "JOHN HENRY NEWMAN CATHOLIC COLLEGE 3G Pitch 1 - 13:00PM",
       "competition": "U15 Premier Division"
-    }
-  },
-  {
-    "id": "generated:headless cross youth u16|kingshurst pavilions sports club u16|13/09/26 12:30",
-    "division_id": "515441887",
-    "division_name": "U16 Division 7",
-    "home_team_id": null,
-    "home_team": "Headless Cross Youth U16",
-    "away_team_id": null,
-    "away_team": "Kingshurst Pavilions Sports Club U16",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Headless Cross Youth U16",
-      "awayTeam": "Kingshurst Pavilions Sports Club U16",
-      "location": "MORTON STANLEY PARK Pitch 1 - 12:30PM",
-      "competition": "U16 Division 7"
-    }
-  },
-  {
-    "id": "generated:knowle u16 lions|next generation u16 vipers|13/09/26 12:30",
-    "division_id": "515441887",
-    "division_name": "U16 Division 7",
-    "home_team_id": null,
-    "home_team": "Knowle U16 Lions",
-    "away_team_id": null,
-    "away_team": "Next Generation U16 Vipers",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Knowle U16 Lions",
-      "awayTeam": "Next Generation U16 Vipers",
-      "location": "TUDOR GRANGE LEISURE CENTRE 3G Pitch 1 - 12:30PM",
-      "competition": "U16 Division 7"
-    }
-  },
-  {
-    "id": "generated:olton ravens u16 oh|o d w lions u16|13/09/26 12:30",
-    "division_id": "515441887",
-    "division_name": "U16 Division 7",
-    "home_team_id": null,
-    "home_team": "Olton Ravens U16 OH",
-    "away_team_id": null,
-    "away_team": "O D W Lions U16",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Olton Ravens U16 OH",
-      "awayTeam": "O D W Lions U16",
-      "location": "THE LAND ROVER SPORTS &amp; SOCIAL CLUB Pitch 1 - 12:30PM",
-      "competition": "U16 Division 7"
-    }
-  },
-  {
-    "id": "generated:sporting u16|s j b juniors u16|13/09/26 12:30",
-    "division_id": "515441887",
-    "division_name": "U16 Division 7",
-    "home_team_id": null,
-    "home_team": "Sporting U16",
-    "away_team_id": null,
-    "away_team": "S J B Juniors U16",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Sporting U16",
-      "awayTeam": "S J B Juniors U16",
-      "location": "BROCKHURST ROAD PLAYING FIELD Pitch 2 - 12:30PM",
-      "competition": "U16 Division 7"
     }
   },
   {
@@ -2214,78 +2214,6 @@
     }
   },
   {
-    "id": "generated:boldmere st michaels juniors u15 2011 ln|hall green sports club u15|13/09/26 09:30",
-    "division_id": "511352651",
-    "division_name": "U15 Division 4",
-    "home_team_id": null,
-    "home_team": "Boldmere St Michaels Juniors U15 2011 LN",
-    "away_team_id": null,
-    "away_team": "Hall Green Sports Club U15",
-    "date": "13/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 09:30",
-      "homeTeam": "Boldmere St Michaels Juniors U15 2011 LN",
-      "awayTeam": "Hall Green Sports Club U15",
-      "location": "CASTLE VALE FOOTBALL STADIUM CV2 - 09:30AM",
-      "competition": "U15 Division 4"
-    }
-  },
-  {
-    "id": "generated:crusaders u15|sutton coldfield town u15 1879|13/09/26 10:00",
-    "division_id": "511352651",
-    "division_name": "U15 Division 4",
-    "home_team_id": null,
-    "home_team": "Crusaders U15",
-    "away_team_id": null,
-    "away_team": "Sutton Coldfield Town U15 1879",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Crusaders U15",
-      "awayTeam": "Sutton Coldfield Town U15 1879",
-      "location": "ROWHEATH PAVILION Pitch 3 - 10:00AM",
-      "competition": "U15 Division 4"
-    }
-  },
-  {
-    "id": "generated:kidderminster harriers youth u15 lw|rubery juniors u15 ml|13/09/26 10:30",
-    "division_id": "511352651",
-    "division_name": "U15 Division 4",
-    "home_team_id": null,
-    "home_team": "Kidderminster Harriers Youth U15 LW",
-    "away_team_id": null,
-    "away_team": "Rubery Juniors U15 ML",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Kidderminster Harriers Youth U15 LW",
-      "awayTeam": "Rubery Juniors U15 ML",
-      "location": "KIDDERMINSTER HARRIERS FC (CENTRE OF SPORTING EXCELLENCE) Pitch 10 - 10:30AM",
-      "competition": "U15 Division 4"
-    }
-  },
-  {
-    "id": "generated:hampton u15 reds|bournville warriors u15|13/09/26 12:45",
-    "division_id": "511352651",
-    "division_name": "U15 Division 4",
-    "home_team_id": null,
-    "home_team": "Hampton U15 Reds",
-    "away_team_id": null,
-    "away_team": "Bournville Warriors U15",
-    "date": "13/09/26 12:45",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:45",
-      "homeTeam": "Hampton U15 Reds",
-      "awayTeam": "Bournville Warriors U15",
-      "location": "FIELD LANE (HAMPTON FC) Pitch 2 - 12:45PM",
-      "competition": "U15 Division 4"
-    }
-  },
-  {
     "id": "generated:sutton united u15 pumas|olton ravens u15 dc|13/09/26 10:00",
     "division_id": "175944474",
     "division_name": "U15 Division 3",
@@ -2358,93 +2286,165 @@
     }
   },
   {
-    "id": "generated:rubery juniors u15 ag|arden forest u15 spartans|13/09/26 10:00",
-    "division_id": "326766429",
-    "division_name": "U15 Division 7",
+    "id": "generated:boldmere st michaels juniors u15 2011 ln|hall green sports club u15|13/09/26 09:30",
+    "division_id": "511352651",
+    "division_name": "U15 Division 4",
     "home_team_id": null,
-    "home_team": "Rubery Juniors U15 AG",
+    "home_team": "Boldmere St Michaels Juniors U15 2011 LN",
     "away_team_id": null,
-    "away_team": "Arden Forest U15 Spartans",
+    "away_team": "Hall Green Sports Club U15",
+    "date": "13/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 09:30",
+      "homeTeam": "Boldmere St Michaels Juniors U15 2011 LN",
+      "awayTeam": "Hall Green Sports Club U15",
+      "location": "CASTLE VALE FOOTBALL STADIUM CV2 - 09:30AM",
+      "competition": "U15 Division 4"
+    }
+  },
+  {
+    "id": "generated:crusaders u15|sutton coldfield town u15 1879|13/09/26 10:00",
+    "division_id": "511352651",
+    "division_name": "U15 Division 4",
+    "home_team_id": null,
+    "home_team": "Crusaders U15",
+    "away_team_id": null,
+    "away_team": "Sutton Coldfield Town U15 1879",
     "date": "13/09/26 10:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Rubery Juniors U15 AG",
-      "awayTeam": "Arden Forest U15 Spartans",
-      "location": "BAY TREE FARM Pitch 2 - 10:00AM",
-      "competition": "U15 Division 7"
+      "homeTeam": "Crusaders U15",
+      "awayTeam": "Sutton Coldfield Town U15 1879",
+      "location": "ROWHEATH PAVILION Pitch 3 - 10:00AM",
+      "competition": "U15 Division 4"
     }
   },
   {
-    "id": "generated:sheldon royals u15|t t elite u15 tigers|13/09/26 10:00",
-    "division_id": "326766429",
-    "division_name": "U15 Division 7",
+    "id": "generated:kidderminster harriers youth u15 lw|rubery juniors u15 ml|13/09/26 10:30",
+    "division_id": "511352651",
+    "division_name": "U15 Division 4",
     "home_team_id": null,
-    "home_team": "Sheldon Royals U15",
+    "home_team": "Kidderminster Harriers Youth U15 LW",
     "away_team_id": null,
-    "away_team": "T T Elite U15 Tigers",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Sheldon Royals U15",
-      "awayTeam": "T T Elite U15 Tigers",
-      "location": "KING EDWARD VI SHELDON HEATH ACADEMY KESH5 - 10:00AM 3G",
-      "competition": "U15 Division 7"
-    }
-  },
-  {
-    "id": "generated:olton ravens u15 kp|alvechurch foundation u15 mg|13/09/26 10:30",
-    "division_id": "326766429",
-    "division_name": "U15 Division 7",
-    "home_team_id": null,
-    "home_team": "Olton Ravens U15 KP",
-    "away_team_id": null,
-    "away_team": "Alvechurch Foundation U15 MG",
+    "away_team": "Rubery Juniors U15 ML",
     "date": "13/09/26 10:30",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Olton Ravens U15 KP",
-      "awayTeam": "Alvechurch Foundation U15 MG",
-      "location": "THE LAND ROVER SPORTS &amp; SOCIAL CLUB Pitch 1 - 10:30AM",
-      "competition": "U15 Division 7"
+      "homeTeam": "Kidderminster Harriers Youth U15 LW",
+      "awayTeam": "Rubery Juniors U15 ML",
+      "location": "KIDDERMINSTER HARRIERS FC (CENTRE OF SPORTING EXCELLENCE) Pitch 10 - 10:30AM",
+      "competition": "U15 Division 4"
     }
   },
   {
-    "id": "generated:alcester town u15 romans sunday|oasis lionhearts u15|13/09/26 11:15",
-    "division_id": "326766429",
-    "division_name": "U15 Division 7",
+    "id": "generated:hampton u15 reds|bournville warriors u15|13/09/26 12:45",
+    "division_id": "511352651",
+    "division_name": "U15 Division 4",
     "home_team_id": null,
-    "home_team": "Alcester Town U15 Romans Sunday",
+    "home_team": "Hampton U15 Reds",
     "away_team_id": null,
-    "away_team": "Oasis Lionhearts U15",
-    "date": "13/09/26 11:15",
+    "away_team": "Bournville Warriors U15",
+    "date": "13/09/26 12:45",
     "status": null,
     "raw": {
-      "fixtureDateTime": "13/09/26 11:15",
-      "homeTeam": "Alcester Town U15 Romans Sunday",
-      "awayTeam": "Oasis Lionhearts U15",
-      "location": "ALCESTER TOWN FC (STRATFORD ROAD) Pitch 3 - 11:15AM",
-      "competition": "U15 Division 7"
+      "fixtureDateTime": "13/09/26 12:45",
+      "homeTeam": "Hampton U15 Reds",
+      "awayTeam": "Bournville Warriors U15",
+      "location": "FIELD LANE (HAMPTON FC) Pitch 2 - 12:45PM",
+      "competition": "U15 Division 4"
     }
   },
   {
-    "id": "generated:phoenix united minor u15|sutton colron town u15 lions|13/09/26 11:30",
-    "division_id": "326766429",
-    "division_name": "U15 Division 7",
+    "id": "generated:leafield athletic u15|dream chaser youth u15|13/09/26 09:30",
+    "division_id": "477690334",
+    "division_name": "U15 Division 6",
     "home_team_id": null,
-    "home_team": "Phoenix United Minor U15",
+    "home_team": "Leafield Athletic U15",
     "away_team_id": null,
-    "away_team": "Sutton Colron Town U15 Lions",
+    "away_team": "Dream Chaser Youth U15",
+    "date": "13/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 09:30",
+      "homeTeam": "Leafield Athletic U15",
+      "awayTeam": "Dream Chaser Youth U15",
+      "location": "LEAFIELD ATHLETIC FC (RUMBUSH LANE) Pitch 2 - 09:30AM",
+      "competition": "U15 Division 6"
+    }
+  },
+  {
+    "id": "generated:a f c chelmsley u15 boys|redditch united u15 lm|13/09/26 10:00",
+    "division_id": "477690334",
+    "division_name": "U15 Division 6",
+    "home_team_id": null,
+    "home_team": "A F C Chelmsley U15 Boys",
+    "away_team_id": null,
+    "away_team": "Redditch United U15 LM",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "A F C Chelmsley U15 Boys",
+      "awayTeam": "Redditch United U15 LM",
+      "location": "CHELMSLEY WOOD ONWARD CLUB Pitch 5 - 10:00AM",
+      "competition": "U15 Division 6"
+    }
+  },
+  {
+    "id": "generated:sportsco u15 harriers|coleshill town colts u15 black|13/09/26 10:00",
+    "division_id": "477690334",
+    "division_name": "U15 Division 6",
+    "home_team_id": null,
+    "home_team": "Sportsco U15 Harriers",
+    "away_team_id": null,
+    "away_team": "Coleshill Town Colts U15 Black",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Sportsco U15 Harriers",
+      "awayTeam": "Coleshill Town Colts U15 Black",
+      "location": "WISHAW LANE PLAYING FIELDS Pitch 4 - 10:00AM",
+      "competition": "U15 Division 6"
+    }
+  },
+  {
+    "id": "generated:highgate united u15 (cd)|highgate united u15 (rf)|13/09/26 11:30",
+    "division_id": "477690334",
+    "division_name": "U15 Division 6",
+    "home_team_id": null,
+    "home_team": "Highgate United U15 (CD)",
+    "away_team_id": null,
+    "away_team": "Highgate United U15 (RF)",
     "date": "13/09/26 11:30",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 11:30",
-      "homeTeam": "Phoenix United Minor U15",
-      "awayTeam": "Sutton Colron Town U15 Lions",
-      "location": "JAFFRAY PLAYING FIELDS Pitch 4 - 11:30AM",
-      "competition": "U15 Division 7"
+      "homeTeam": "Highgate United U15 (CD)",
+      "awayTeam": "Highgate United U15 (RF)",
+      "location": "HIGHGATE UNITED FOOTBALL CLUB Pitch 2 - 11:30AM/12:30PM",
+      "competition": "U15 Division 6"
+    }
+  },
+  {
+    "id": "generated:perrywoods united youth u15|henley forest of arden minor u15|13/09/26 12:30",
+    "division_id": "477690334",
+    "division_name": "U15 Division 6",
+    "home_team_id": null,
+    "home_team": "Perrywoods United Youth U15",
+    "away_team_id": null,
+    "away_team": "Henley Forest of Arden Minor U15",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Perrywoods United Youth U15",
+      "awayTeam": "Henley Forest of Arden Minor U15",
+      "location": "HADLEY STADIUM Pitch 1 - 12:30PM",
+      "competition": "U15 Division 6"
     }
   },
   {
@@ -2538,93 +2538,93 @@
     }
   },
   {
-    "id": "generated:leafield athletic u15|dream chaser youth u15|13/09/26 09:30",
-    "division_id": "477690334",
-    "division_name": "U15 Division 6",
+    "id": "generated:rubery juniors u15 ag|arden forest u15 spartans|13/09/26 10:00",
+    "division_id": "326766429",
+    "division_name": "U15 Division 7",
     "home_team_id": null,
-    "home_team": "Leafield Athletic U15",
+    "home_team": "Rubery Juniors U15 AG",
     "away_team_id": null,
-    "away_team": "Dream Chaser Youth U15",
-    "date": "13/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 09:30",
-      "homeTeam": "Leafield Athletic U15",
-      "awayTeam": "Dream Chaser Youth U15",
-      "location": "LEAFIELD ATHLETIC FC (RUMBUSH LANE) Pitch 2 - 09:30AM",
-      "competition": "U15 Division 6"
-    }
-  },
-  {
-    "id": "generated:a f c chelmsley u15 boys|redditch united u15 lm|13/09/26 10:00",
-    "division_id": "477690334",
-    "division_name": "U15 Division 6",
-    "home_team_id": null,
-    "home_team": "A F C Chelmsley U15 Boys",
-    "away_team_id": null,
-    "away_team": "Redditch United U15 LM",
+    "away_team": "Arden Forest U15 Spartans",
     "date": "13/09/26 10:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "A F C Chelmsley U15 Boys",
-      "awayTeam": "Redditch United U15 LM",
-      "location": "CHELMSLEY WOOD ONWARD CLUB Pitch 5 - 10:00AM",
-      "competition": "U15 Division 6"
+      "homeTeam": "Rubery Juniors U15 AG",
+      "awayTeam": "Arden Forest U15 Spartans",
+      "location": "BAY TREE FARM Pitch 2 - 10:00AM",
+      "competition": "U15 Division 7"
     }
   },
   {
-    "id": "generated:sportsco u15 harriers|coleshill town colts u15 black|13/09/26 10:00",
-    "division_id": "477690334",
-    "division_name": "U15 Division 6",
+    "id": "generated:sheldon royals u15|t t elite u15 tigers|13/09/26 10:00",
+    "division_id": "326766429",
+    "division_name": "U15 Division 7",
     "home_team_id": null,
-    "home_team": "Sportsco U15 Harriers",
+    "home_team": "Sheldon Royals U15",
     "away_team_id": null,
-    "away_team": "Coleshill Town Colts U15 Black",
+    "away_team": "T T Elite U15 Tigers",
     "date": "13/09/26 10:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Sportsco U15 Harriers",
-      "awayTeam": "Coleshill Town Colts U15 Black",
-      "location": "WISHAW LANE PLAYING FIELDS Pitch 4 - 10:00AM",
-      "competition": "U15 Division 6"
+      "homeTeam": "Sheldon Royals U15",
+      "awayTeam": "T T Elite U15 Tigers",
+      "location": "KING EDWARD VI SHELDON HEATH ACADEMY KESH5 - 10:00AM 3G",
+      "competition": "U15 Division 7"
     }
   },
   {
-    "id": "generated:highgate united u15 (cd)|highgate united u15 (rf)|13/09/26 11:30",
-    "division_id": "477690334",
-    "division_name": "U15 Division 6",
+    "id": "generated:olton ravens u15 kp|alvechurch foundation u15 mg|13/09/26 10:30",
+    "division_id": "326766429",
+    "division_name": "U15 Division 7",
     "home_team_id": null,
-    "home_team": "Highgate United U15 (CD)",
+    "home_team": "Olton Ravens U15 KP",
     "away_team_id": null,
-    "away_team": "Highgate United U15 (RF)",
+    "away_team": "Alvechurch Foundation U15 MG",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Olton Ravens U15 KP",
+      "awayTeam": "Alvechurch Foundation U15 MG",
+      "location": "THE LAND ROVER SPORTS &amp; SOCIAL CLUB Pitch 1 - 10:30AM",
+      "competition": "U15 Division 7"
+    }
+  },
+  {
+    "id": "generated:alcester town u15 romans sunday|oasis lionhearts u15|13/09/26 11:15",
+    "division_id": "326766429",
+    "division_name": "U15 Division 7",
+    "home_team_id": null,
+    "home_team": "Alcester Town U15 Romans Sunday",
+    "away_team_id": null,
+    "away_team": "Oasis Lionhearts U15",
+    "date": "13/09/26 11:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:15",
+      "homeTeam": "Alcester Town U15 Romans Sunday",
+      "awayTeam": "Oasis Lionhearts U15",
+      "location": "ALCESTER TOWN FC (STRATFORD ROAD) Pitch 3 - 11:15AM",
+      "competition": "U15 Division 7"
+    }
+  },
+  {
+    "id": "generated:phoenix united minor u15|sutton colron town u15 lions|13/09/26 11:30",
+    "division_id": "326766429",
+    "division_name": "U15 Division 7",
+    "home_team_id": null,
+    "home_team": "Phoenix United Minor U15",
+    "away_team_id": null,
+    "away_team": "Sutton Colron Town U15 Lions",
     "date": "13/09/26 11:30",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 11:30",
-      "homeTeam": "Highgate United U15 (CD)",
-      "awayTeam": "Highgate United U15 (RF)",
-      "location": "HIGHGATE UNITED FOOTBALL CLUB Pitch 2 - 11:30AM/12:30PM",
-      "competition": "U15 Division 6"
-    }
-  },
-  {
-    "id": "generated:perrywoods united youth u15|henley forest of arden minor u15|13/09/26 12:30",
-    "division_id": "477690334",
-    "division_name": "U15 Division 6",
-    "home_team_id": null,
-    "home_team": "Perrywoods United Youth U15",
-    "away_team_id": null,
-    "away_team": "Henley Forest of Arden Minor U15",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Perrywoods United Youth U15",
-      "awayTeam": "Henley Forest of Arden Minor U15",
-      "location": "HADLEY STADIUM Pitch 1 - 12:30PM",
-      "competition": "U15 Division 6"
+      "homeTeam": "Phoenix United Minor U15",
+      "awayTeam": "Sutton Colron Town U15 Lions",
+      "location": "JAFFRAY PLAYING FIELDS Pitch 4 - 11:30AM",
+      "competition": "U15 Division 7"
     }
   },
   {
@@ -3060,6 +3060,24 @@
     }
   },
   {
+    "id": "generated:arden forest u14 green|diamonds academy u14 lions|13/09/26 10:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Arden Forest U14 Green",
+    "away_team_id": null,
+    "away_team": "Diamonds Academy U14 Lions",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Arden Forest U14 Green",
+      "awayTeam": "Diamonds Academy U14 Lions",
+      "location": "GRACE ACADEMY SOLIHULL Pitch 3 - 10:00AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
     "id": "generated:bedworth eagles u14 juniors|glades u14|13/09/26 10:00",
     "division_id": null,
     "division_name": "U14 Open Cup",
@@ -3078,20 +3096,38 @@
     }
   },
   {
-    "id": "generated:sutton coldfield town juniors u14 reds|sutton colron town u14 bears|13/09/26 10:00",
+    "id": "generated:solihull u14 m|broadway u14 galacticos|13/09/26 10:00",
     "division_id": null,
     "division_name": "U14 Open Cup",
     "home_team_id": null,
-    "home_team": "Sutton Coldfield Town Juniors U14 Reds",
+    "home_team": "Solihull U14 M",
     "away_team_id": null,
-    "away_team": "Sutton Colron Town U14 Bears",
+    "away_team": "Broadway U14 Galacticos",
     "date": "13/09/26 10:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Sutton Coldfield Town Juniors U14 Reds",
-      "awayTeam": "Sutton Colron Town U14 Bears",
-      "location": "BISHOP WALSH CATHOLIC SCHOOL Pitch 9 - 10:00AM",
+      "homeTeam": "Solihull U14 M",
+      "awayTeam": "Broadway U14 Galacticos",
+      "location": "SILHILLIANS SPORTS CLUB Pitch 3 - 10:00AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:real aston u14 cubs|alcester town u14 juniors sunday|13/09/26 10:30",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Real Aston U14 Cubs",
+    "away_team_id": null,
+    "away_team": "Alcester Town U14 Juniors Sunday",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Real Aston U14 Cubs",
+      "awayTeam": "Alcester Town U14 Juniors Sunday",
+      "location": "THE PAVILION (BIRMINGHAM CITY UNIVERSITY) Pitch 1 - 10:30AM",
       "competition": "U14 Open Cup"
     }
   },
@@ -3110,6 +3146,96 @@
       "homeTeam": "Stratford Town Colts U14 Junior Bards",
       "awayTeam": "Starlands Warriors U14",
       "location": "NFU SPORTS GROUND Pitch 1 - 10:30AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:redditch united u14 kj|studley juniors u14 rangers|13/09/26 12:45",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Redditch United U14 KJ",
+    "away_team_id": null,
+    "away_team": "Studley Juniors U14 Rangers",
+    "date": "13/09/26 12:45",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:45",
+      "homeTeam": "Redditch United U14 KJ",
+      "awayTeam": "Studley Juniors U14 Rangers",
+      "location": "TRINITY HIGH SCHOOL TRIN3 - 12:45PM 3G",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:studley juniors u14 rangers|bedworth eagles u14 juniors|20/09/26 09:30",
+    "division_id": "267489942",
+    "division_name": "U14 Division 3",
+    "home_team_id": null,
+    "home_team": "Studley Juniors U14 Rangers",
+    "away_team_id": null,
+    "away_team": "Bedworth Eagles U14 Juniors",
+    "date": "20/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 09:30",
+      "homeTeam": "Studley Juniors U14 Rangers",
+      "awayTeam": "Bedworth Eagles U14 Juniors",
+      "location": "STUDLEY SPORTS CENTRE 3G Pitch 1 - 09:30AM",
+      "competition": "U14 Division 3"
+    }
+  },
+  {
+    "id": "generated:diamonds academy u14 lions|four oaks club u14 united|20/09/26 12:15",
+    "division_id": "267489942",
+    "division_name": "U14 Division 3",
+    "home_team_id": null,
+    "home_team": "Diamonds Academy U14 Lions",
+    "away_team_id": null,
+    "away_team": "Four Oaks Club U14 United",
+    "date": "20/09/26 12:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:15",
+      "homeTeam": "Diamonds Academy U14 Lions",
+      "awayTeam": "Four Oaks Club U14 United",
+      "location": "KING EDWARD VI HANDSWORTH GRAMMAR SCHOOL FOR BOYS (WOOD LANE) 3G Pitch 1 - 12:15PM",
+      "competition": "U14 Division 3"
+    }
+  },
+  {
+    "id": "generated:starlands warriors u14|boldmere st michaels juniors u14 2012 lh|20/09/26 14:00",
+    "division_id": "267489942",
+    "division_name": "U14 Division 3",
+    "home_team_id": null,
+    "home_team": "Starlands Warriors U14",
+    "away_team_id": null,
+    "away_team": "Boldmere St Michaels Juniors U14 2012 LH",
+    "date": "20/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 14:00",
+      "homeTeam": "Starlands Warriors U14",
+      "awayTeam": "Boldmere St Michaels Juniors U14 2012 LH",
+      "location": "COOKSEY LANE PLAYING FIELDS Pitch 3 - 14:00PM",
+      "competition": "U14 Division 3"
+    }
+  },
+  {
+    "id": "generated:sutton coldfield town juniors u14 reds|sutton colron town u14 bears|13/09/26 10:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Sutton Coldfield Town Juniors U14 Reds",
+    "away_team_id": null,
+    "away_team": "Sutton Colron Town U14 Bears",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Sutton Coldfield Town Juniors U14 Reds",
+      "awayTeam": "Sutton Colron Town U14 Bears",
+      "location": "BISHOP WALSH CATHOLIC SCHOOL Pitch 9 - 10:00AM",
       "competition": "U14 Open Cup"
     }
   },
@@ -3309,132 +3435,6 @@
       "awayTeam": "Wolston Juniors U14",
       "location": "SUTTON UNITED FC Pitch 2 - 12:15PM/13:00PM",
       "competition": "U14 Division 1"
-    }
-  },
-  {
-    "id": "generated:arden forest u14 green|diamonds academy u14 lions|13/09/26 10:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Arden Forest U14 Green",
-    "away_team_id": null,
-    "away_team": "Diamonds Academy U14 Lions",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Arden Forest U14 Green",
-      "awayTeam": "Diamonds Academy U14 Lions",
-      "location": "GRACE ACADEMY SOLIHULL Pitch 3 - 10:00AM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:solihull u14 m|broadway u14 galacticos|13/09/26 10:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Solihull U14 M",
-    "away_team_id": null,
-    "away_team": "Broadway U14 Galacticos",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Solihull U14 M",
-      "awayTeam": "Broadway U14 Galacticos",
-      "location": "SILHILLIANS SPORTS CLUB Pitch 3 - 10:00AM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:real aston u14 cubs|alcester town u14 juniors sunday|13/09/26 10:30",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Real Aston U14 Cubs",
-    "away_team_id": null,
-    "away_team": "Alcester Town U14 Juniors Sunday",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Real Aston U14 Cubs",
-      "awayTeam": "Alcester Town U14 Juniors Sunday",
-      "location": "THE PAVILION (BIRMINGHAM CITY UNIVERSITY) Pitch 1 - 10:30AM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:redditch united u14 kj|studley juniors u14 rangers|13/09/26 12:45",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Redditch United U14 KJ",
-    "away_team_id": null,
-    "away_team": "Studley Juniors U14 Rangers",
-    "date": "13/09/26 12:45",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:45",
-      "homeTeam": "Redditch United U14 KJ",
-      "awayTeam": "Studley Juniors U14 Rangers",
-      "location": "TRINITY HIGH SCHOOL TRIN3 - 12:45PM 3G",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:studley juniors u14 rangers|bedworth eagles u14 juniors|20/09/26 09:30",
-    "division_id": "267489942",
-    "division_name": "U14 Division 3",
-    "home_team_id": null,
-    "home_team": "Studley Juniors U14 Rangers",
-    "away_team_id": null,
-    "away_team": "Bedworth Eagles U14 Juniors",
-    "date": "20/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Studley Juniors U14 Rangers",
-      "awayTeam": "Bedworth Eagles U14 Juniors",
-      "location": "STUDLEY SPORTS CENTRE 3G Pitch 1 - 09:30AM",
-      "competition": "U14 Division 3"
-    }
-  },
-  {
-    "id": "generated:diamonds academy u14 lions|four oaks club u14 united|20/09/26 12:15",
-    "division_id": "267489942",
-    "division_name": "U14 Division 3",
-    "home_team_id": null,
-    "home_team": "Diamonds Academy U14 Lions",
-    "away_team_id": null,
-    "away_team": "Four Oaks Club U14 United",
-    "date": "20/09/26 12:15",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 12:15",
-      "homeTeam": "Diamonds Academy U14 Lions",
-      "awayTeam": "Four Oaks Club U14 United",
-      "location": "KING EDWARD VI HANDSWORTH GRAMMAR SCHOOL FOR BOYS (WOOD LANE) 3G Pitch 1 - 12:15PM",
-      "competition": "U14 Division 3"
-    }
-  },
-  {
-    "id": "generated:starlands warriors u14|boldmere st michaels juniors u14 2012 lh|20/09/26 14:00",
-    "division_id": "267489942",
-    "division_name": "U14 Division 3",
-    "home_team_id": null,
-    "home_team": "Starlands Warriors U14",
-    "away_team_id": null,
-    "away_team": "Boldmere St Michaels Juniors U14 2012 LH",
-    "date": "20/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 14:00",
-      "homeTeam": "Starlands Warriors U14",
-      "awayTeam": "Boldmere St Michaels Juniors U14 2012 LH",
-      "location": "COOKSEY LANE PLAYING FIELDS Pitch 3 - 14:00PM",
-      "competition": "U14 Division 3"
     }
   },
   {
@@ -3672,114 +3672,6 @@
     }
   },
   {
-    "id": "generated:arden forest u14 sporting cw|leafield athletic u14 dynamo|13/09/26 12:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Arden Forest U14 Sporting CW",
-    "away_team_id": null,
-    "away_team": "Leafield Athletic U14 Dynamo",
-    "date": "13/09/26 12:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:00",
-      "homeTeam": "Arden Forest U14 Sporting CW",
-      "awayTeam": "Leafield Athletic U14 Dynamo",
-      "location": "GRACE ACADEMY SOLIHULL Pitch 3 - 12:00PM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:waseley warriors u14|sutton coldfield town juniors u14 blue|20/09/26 09:30",
-    "division_id": "458602456",
-    "division_name": "U14 Division 5",
-    "home_team_id": null,
-    "home_team": "Waseley Warriors U14",
-    "away_team_id": null,
-    "away_team": "Sutton Coldfield Town Juniors U14 Blue",
-    "date": "20/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Waseley Warriors U14",
-      "awayTeam": "Sutton Coldfield Town Juniors U14 Blue",
-      "location": "BELTON ROAD PLAYING FIELDS Pitch 1 - 09:30AM",
-      "competition": "U14 Division 5"
-    }
-  },
-  {
-    "id": "generated:leafield athletic u14 dynamo|olton ravens u14 dw|20/09/26 11:30",
-    "division_id": "458602456",
-    "division_name": "U14 Division 5",
-    "home_team_id": null,
-    "home_team": "Leafield Athletic U14 Dynamo",
-    "away_team_id": null,
-    "away_team": "Olton Ravens U14 DW",
-    "date": "20/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 11:30",
-      "homeTeam": "Leafield Athletic U14 Dynamo",
-      "awayTeam": "Olton Ravens U14 DW",
-      "location": "LEAFIELD ATHLETIC FC (RUMBUSH LANE) Pitch 2 - 11:30AM",
-      "competition": "U14 Division 5"
-    }
-  },
-  {
-    "id": "generated:arden forest u14 sporting lh|p and e sports u14 phoenix|20/09/26 12:00",
-    "division_id": "458602456",
-    "division_name": "U14 Division 5",
-    "home_team_id": null,
-    "home_team": "Arden Forest U14 Sporting LH",
-    "away_team_id": null,
-    "away_team": "P and E Sports U14 Phoenix",
-    "date": "20/09/26 12:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 12:00",
-      "homeTeam": "Arden Forest U14 Sporting LH",
-      "awayTeam": "P and E Sports U14 Phoenix",
-      "location": "GRACE ACADEMY SOLIHULL Pitch 3 - 12:00PM",
-      "competition": "U14 Division 5"
-    }
-  },
-  {
-    "id": "generated:cadbury athletic u14 juniors|boldmere st michaels juniors u14 2012 re|20/09/26 12:15",
-    "division_id": "458602456",
-    "division_name": "U14 Division 5",
-    "home_team_id": null,
-    "home_team": "Cadbury Athletic U14 Juniors",
-    "away_team_id": null,
-    "away_team": "Boldmere St Michaels Juniors U14 2012 RE",
-    "date": "20/09/26 12:15",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 12:15",
-      "homeTeam": "Cadbury Athletic U14 Juniors",
-      "awayTeam": "Boldmere St Michaels Juniors U14 2012 RE",
-      "location": "BOURNVILLE RECREATION GROUND Pitch 3 - 12:15PM",
-      "competition": "U14 Division 5"
-    }
-  },
-  {
-    "id": "generated:p and e sports u14 phoenix|kidderminster athletic u14 panthers|04/10/26 11:00",
-    "division_id": null,
-    "division_name": "WFA Sunday U14 Cup",
-    "home_team_id": null,
-    "home_team": "P and E Sports U14 Phoenix",
-    "away_team_id": null,
-    "away_team": "Kidderminster Athletic U14 Panthers",
-    "date": "04/10/26 11:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "04/10/26 11:00",
-      "homeTeam": "P and E Sports U14 Phoenix",
-      "awayTeam": "Kidderminster Athletic U14 Panthers",
-      "location": "P and E Sports U14 Phoenix",
-      "competition": "WFA Sunday U14 Cup"
-    }
-  },
-  {
     "id": "generated:solihull moors foundation u14 jw|marston green minor u14 ravens|13/09/26 10:00",
     "division_id": null,
     "division_name": "U14 Open Cup",
@@ -3830,6 +3722,24 @@
       "homeTeam": "Hurley Kings U14 Predators",
       "awayTeam": "Leafield Athletic U14 United",
       "location": "HURLEY DAW MILL Clubhouse Pitch - 10:30AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:arden forest u14 sporting cw|leafield athletic u14 dynamo|13/09/26 12:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Arden Forest U14 Sporting CW",
+    "away_team_id": null,
+    "away_team": "Leafield Athletic U14 Dynamo",
+    "date": "13/09/26 12:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:00",
+      "homeTeam": "Arden Forest U14 Sporting CW",
+      "awayTeam": "Leafield Athletic U14 Dynamo",
+      "location": "GRACE ACADEMY SOLIHULL Pitch 3 - 12:00PM",
       "competition": "U14 Open Cup"
     }
   },
@@ -3978,38 +3888,110 @@
     }
   },
   {
-    "id": "generated:boldmere st michaels juniors u14 2012 al|sheldon royals u14 hawks|13/09/26 10:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
+    "id": "generated:waseley warriors u14|sutton coldfield town juniors u14 blue|20/09/26 09:30",
+    "division_id": "458602456",
+    "division_name": "U14 Division 5",
     "home_team_id": null,
-    "home_team": "Boldmere St Michaels Juniors U14 2012 AL",
+    "home_team": "Waseley Warriors U14",
     "away_team_id": null,
-    "away_team": "Sheldon Royals U14 Hawks",
-    "date": "13/09/26 10:00",
+    "away_team": "Sutton Coldfield Town Juniors U14 Blue",
+    "date": "20/09/26 09:30",
     "status": null,
     "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Boldmere St Michaels Juniors U14 2012 AL",
-      "awayTeam": "Sheldon Royals U14 Hawks",
-      "location": "ASTON OLD EDWARDIANS RFC AST - 10:00AM",
-      "competition": "U14 Open Cup"
+      "fixtureDateTime": "20/09/26 09:30",
+      "homeTeam": "Waseley Warriors U14",
+      "awayTeam": "Sutton Coldfield Town Juniors U14 Blue",
+      "location": "BELTON ROAD PLAYING FIELDS Pitch 1 - 09:30AM",
+      "competition": "U14 Division 5"
     }
   },
   {
-    "id": "generated:bournville warriors u14 red|kings heath sports u14 dynamo|13/09/26 10:00",
+    "id": "generated:leafield athletic u14 dynamo|olton ravens u14 dw|20/09/26 11:30",
+    "division_id": "458602456",
+    "division_name": "U14 Division 5",
+    "home_team_id": null,
+    "home_team": "Leafield Athletic U14 Dynamo",
+    "away_team_id": null,
+    "away_team": "Olton Ravens U14 DW",
+    "date": "20/09/26 11:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:30",
+      "homeTeam": "Leafield Athletic U14 Dynamo",
+      "awayTeam": "Olton Ravens U14 DW",
+      "location": "LEAFIELD ATHLETIC FC (RUMBUSH LANE) Pitch 2 - 11:30AM",
+      "competition": "U14 Division 5"
+    }
+  },
+  {
+    "id": "generated:arden forest u14 sporting lh|p and e sports u14 phoenix|20/09/26 12:00",
+    "division_id": "458602456",
+    "division_name": "U14 Division 5",
+    "home_team_id": null,
+    "home_team": "Arden Forest U14 Sporting LH",
+    "away_team_id": null,
+    "away_team": "P and E Sports U14 Phoenix",
+    "date": "20/09/26 12:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:00",
+      "homeTeam": "Arden Forest U14 Sporting LH",
+      "awayTeam": "P and E Sports U14 Phoenix",
+      "location": "GRACE ACADEMY SOLIHULL Pitch 3 - 12:00PM",
+      "competition": "U14 Division 5"
+    }
+  },
+  {
+    "id": "generated:cadbury athletic u14 juniors|boldmere st michaels juniors u14 2012 re|20/09/26 12:15",
+    "division_id": "458602456",
+    "division_name": "U14 Division 5",
+    "home_team_id": null,
+    "home_team": "Cadbury Athletic U14 Juniors",
+    "away_team_id": null,
+    "away_team": "Boldmere St Michaels Juniors U14 2012 RE",
+    "date": "20/09/26 12:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:15",
+      "homeTeam": "Cadbury Athletic U14 Juniors",
+      "awayTeam": "Boldmere St Michaels Juniors U14 2012 RE",
+      "location": "BOURNVILLE RECREATION GROUND Pitch 3 - 12:15PM",
+      "competition": "U14 Division 5"
+    }
+  },
+  {
+    "id": "generated:p and e sports u14 phoenix|kidderminster athletic u14 panthers|04/10/26 11:00",
+    "division_id": null,
+    "division_name": "WFA Sunday U14 Cup",
+    "home_team_id": null,
+    "home_team": "P and E Sports U14 Phoenix",
+    "away_team_id": null,
+    "away_team": "Kidderminster Athletic U14 Panthers",
+    "date": "04/10/26 11:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "04/10/26 11:00",
+      "homeTeam": "P and E Sports U14 Phoenix",
+      "awayTeam": "Kidderminster Athletic U14 Panthers",
+      "location": "P and E Sports U14 Phoenix",
+      "competition": "WFA Sunday U14 Cup"
+    }
+  },
+  {
+    "id": "generated:hampton u14|kingshurst pavilions sports club u14|13/09/26 10:00",
     "division_id": null,
     "division_name": "U14 Open Cup",
     "home_team_id": null,
-    "home_team": "Bournville Warriors U14 Red",
+    "home_team": "Hampton U14",
     "away_team_id": null,
-    "away_team": "Kings Heath Sports U14 Dynamo",
+    "away_team": "Kingshurst Pavilions Sports Club U14",
     "date": "13/09/26 10:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Bournville Warriors U14 Red",
-      "awayTeam": "Kings Heath Sports U14 Dynamo",
-      "location": "SHENLEY ACADEMY Pitch 5 - 10:00AM",
+      "homeTeam": "Hampton U14",
+      "awayTeam": "Kingshurst Pavilions Sports Club U14",
+      "location": "FIELD LANE (HAMPTON FC) Pitch 2 - 10:00AM",
       "competition": "U14 Open Cup"
     }
   },
@@ -4032,24 +4014,6 @@
     }
   },
   {
-    "id": "generated:vision u14 raiders|bournville u14|13/09/26 10:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Vision U14 Raiders",
-    "away_team_id": null,
-    "away_team": "Bournville U14",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Vision U14 Raiders",
-      "awayTeam": "Bournville U14",
-      "location": "MARSTON GREEN RECREATION GROUND Pitch 1 - 10:00AM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
     "id": "generated:c c c u14 boys|coleshill town u14|13/09/26 10:30",
     "division_id": null,
     "division_name": "U14 Open Cup",
@@ -4068,20 +4032,20 @@
     }
   },
   {
-    "id": "generated:oasis lionhearts u14|kings heath sports u14 boca|13/09/26 10:30",
+    "id": "generated:boldmere falcons u14 colts|hillfield afc u14 red|13/09/26 12:00",
     "division_id": null,
     "division_name": "U14 Open Cup",
     "home_team_id": null,
-    "home_team": "Oasis Lionhearts U14",
+    "home_team": "Boldmere Falcons U14 Colts",
     "away_team_id": null,
-    "away_team": "Kings Heath Sports U14 Boca",
-    "date": "13/09/26 10:30",
+    "away_team": "Hillfield AFC U14 Red",
+    "date": "13/09/26 12:00",
     "status": null,
     "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Oasis Lionhearts U14",
-      "awayTeam": "Kings Heath Sports U14 Boca",
-      "location": "OAKLANDS RECREATION GROUND Pitch 1 - 10:30AM",
+      "fixtureDateTime": "13/09/26 12:00",
+      "homeTeam": "Boldmere Falcons U14 Colts",
+      "awayTeam": "Hillfield AFC U14 Red",
+      "location": "BOLDMERE SPORTS AND SOCIAL CLUB Pitch 4 - 12:00PM",
       "competition": "U14 Open Cup"
     }
   },
@@ -4100,132 +4064,6 @@
       "homeTeam": "Rubery Juniors U14 CS",
       "awayTeam": "Highgate United U14 (BW)",
       "location": "BAY TREE FARM Pitch 2 - 12.15PM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:kings eleven u14|olton ravens u14 jm|13/09/26 14:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Kings Eleven U14",
-    "away_team_id": null,
-    "away_team": "Olton Ravens U14 JM",
-    "date": "13/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 14:00",
-      "homeTeam": "Kings Eleven U14",
-      "awayTeam": "Olton Ravens U14 JM",
-      "location": "WAKE GREEN PLAYING FIELDS Pitch 1 - 14:00PM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:coleshill town u14|holly lane united u14 celtic|20/09/26 09:30",
-    "division_id": "782530406",
-    "division_name": "U14 Division 9",
-    "home_team_id": null,
-    "home_team": "Coleshill Town U14",
-    "away_team_id": null,
-    "away_team": "Holly Lane United U14 Celtic",
-    "date": "20/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Coleshill Town U14",
-      "awayTeam": "Holly Lane United U14 Celtic",
-      "location": "PACK MEADOW 3G - PM1 - 09:30AM",
-      "competition": "U14 Division 9"
-    }
-  },
-  {
-    "id": "generated:highgate united u14 (bw)|oasis lionhearts u14|20/09/26 10:30",
-    "division_id": "782530406",
-    "division_name": "U14 Division 9",
-    "home_team_id": null,
-    "home_team": "Highgate United U14 (BW)",
-    "away_team_id": null,
-    "away_team": "Oasis Lionhearts U14",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Highgate United U14 (BW)",
-      "awayTeam": "Oasis Lionhearts U14",
-      "location": "HIGHGATE UNITED FOOTBALL CLUB Pitch 1 - 10:30AM",
-      "competition": "U14 Division 9"
-    }
-  },
-  {
-    "id": "generated:sheldon royals u14 hawks|kings heath sports u14 dynamo|20/09/26 12:45",
-    "division_id": "782530406",
-    "division_name": "U14 Division 9",
-    "home_team_id": null,
-    "home_team": "Sheldon Royals U14 Hawks",
-    "away_team_id": null,
-    "away_team": "Kings Heath Sports U14 Dynamo",
-    "date": "20/09/26 12:45",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 12:45",
-      "homeTeam": "Sheldon Royals U14 Hawks",
-      "awayTeam": "Kings Heath Sports U14 Dynamo",
-      "location": "KING EDWARD VI SHELDON HEATH ACADEMY KESH3 - 12:45PM 3G",
-      "competition": "U14 Division 9"
-    }
-  },
-  {
-    "id": "generated:kings eleven u14|vision u14 raiders|20/09/26 14:00",
-    "division_id": "782530406",
-    "division_name": "U14 Division 9",
-    "home_team_id": null,
-    "home_team": "Kings Eleven U14",
-    "away_team_id": null,
-    "away_team": "Vision U14 Raiders",
-    "date": "20/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 14:00",
-      "homeTeam": "Kings Eleven U14",
-      "awayTeam": "Vision U14 Raiders",
-      "location": "WAKE GREEN PLAYING FIELDS Pitch 1 - 14:00PM",
-      "competition": "U14 Division 9"
-    }
-  },
-  {
-    "id": "generated:hampton u14|kingshurst pavilions sports club u14|13/09/26 10:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Hampton U14",
-    "away_team_id": null,
-    "away_team": "Kingshurst Pavilions Sports Club U14",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Hampton U14",
-      "awayTeam": "Kingshurst Pavilions Sports Club U14",
-      "location": "FIELD LANE (HAMPTON FC) Pitch 2 - 10:00AM",
-      "competition": "U14 Open Cup"
-    }
-  },
-  {
-    "id": "generated:boldmere falcons u14 colts|hillfield afc u14 red|13/09/26 12:00",
-    "division_id": null,
-    "division_name": "U14 Open Cup",
-    "home_team_id": null,
-    "home_team": "Boldmere Falcons U14 Colts",
-    "away_team_id": null,
-    "away_team": "Hillfield AFC U14 Red",
-    "date": "13/09/26 12:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:00",
-      "homeTeam": "Boldmere Falcons U14 Colts",
-      "awayTeam": "Hillfield AFC U14 Red",
-      "location": "BOLDMERE SPORTS AND SOCIAL CLUB Pitch 4 - 12:00PM",
       "competition": "U14 Open Cup"
     }
   },
@@ -4443,6 +4281,330 @@
       "awayTeam": "Boldmere Falcons U14 SS",
       "location": "WISHAW LANE PLAYING FIELDS Pitch 4 - 10:00AM",
       "competition": "U14 Division 7"
+    }
+  },
+  {
+    "id": "generated:boldmere st michaels juniors u14 2012 al|sheldon royals u14 hawks|13/09/26 10:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Boldmere St Michaels Juniors U14 2012 AL",
+    "away_team_id": null,
+    "away_team": "Sheldon Royals U14 Hawks",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Boldmere St Michaels Juniors U14 2012 AL",
+      "awayTeam": "Sheldon Royals U14 Hawks",
+      "location": "ASTON OLD EDWARDIANS RFC AST - 10:00AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:bournville warriors u14 red|kings heath sports u14 dynamo|13/09/26 10:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Bournville Warriors U14 Red",
+    "away_team_id": null,
+    "away_team": "Kings Heath Sports U14 Dynamo",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Bournville Warriors U14 Red",
+      "awayTeam": "Kings Heath Sports U14 Dynamo",
+      "location": "SHENLEY ACADEMY Pitch 5 - 10:00AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:vision u14 raiders|bournville u14|13/09/26 10:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Vision U14 Raiders",
+    "away_team_id": null,
+    "away_team": "Bournville U14",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Vision U14 Raiders",
+      "awayTeam": "Bournville U14",
+      "location": "MARSTON GREEN RECREATION GROUND Pitch 1 - 10:00AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:oasis lionhearts u14|kings heath sports u14 boca|13/09/26 10:30",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Oasis Lionhearts U14",
+    "away_team_id": null,
+    "away_team": "Kings Heath Sports U14 Boca",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Oasis Lionhearts U14",
+      "awayTeam": "Kings Heath Sports U14 Boca",
+      "location": "OAKLANDS RECREATION GROUND Pitch 1 - 10:30AM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:kings eleven u14|olton ravens u14 jm|13/09/26 14:00",
+    "division_id": null,
+    "division_name": "U14 Open Cup",
+    "home_team_id": null,
+    "home_team": "Kings Eleven U14",
+    "away_team_id": null,
+    "away_team": "Olton Ravens U14 JM",
+    "date": "13/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 14:00",
+      "homeTeam": "Kings Eleven U14",
+      "awayTeam": "Olton Ravens U14 JM",
+      "location": "WAKE GREEN PLAYING FIELDS Pitch 1 - 14:00PM",
+      "competition": "U14 Open Cup"
+    }
+  },
+  {
+    "id": "generated:coleshill town u14|holly lane united u14 celtic|20/09/26 09:30",
+    "division_id": "782530406",
+    "division_name": "U14 Division 9",
+    "home_team_id": null,
+    "home_team": "Coleshill Town U14",
+    "away_team_id": null,
+    "away_team": "Holly Lane United U14 Celtic",
+    "date": "20/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 09:30",
+      "homeTeam": "Coleshill Town U14",
+      "awayTeam": "Holly Lane United U14 Celtic",
+      "location": "PACK MEADOW 3G - PM1 - 09:30AM",
+      "competition": "U14 Division 9"
+    }
+  },
+  {
+    "id": "generated:highgate united u14 (bw)|oasis lionhearts u14|20/09/26 10:30",
+    "division_id": "782530406",
+    "division_name": "U14 Division 9",
+    "home_team_id": null,
+    "home_team": "Highgate United U14 (BW)",
+    "away_team_id": null,
+    "away_team": "Oasis Lionhearts U14",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Highgate United U14 (BW)",
+      "awayTeam": "Oasis Lionhearts U14",
+      "location": "HIGHGATE UNITED FOOTBALL CLUB Pitch 1 - 10:30AM",
+      "competition": "U14 Division 9"
+    }
+  },
+  {
+    "id": "generated:sheldon royals u14 hawks|kings heath sports u14 dynamo|20/09/26 12:45",
+    "division_id": "782530406",
+    "division_name": "U14 Division 9",
+    "home_team_id": null,
+    "home_team": "Sheldon Royals U14 Hawks",
+    "away_team_id": null,
+    "away_team": "Kings Heath Sports U14 Dynamo",
+    "date": "20/09/26 12:45",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:45",
+      "homeTeam": "Sheldon Royals U14 Hawks",
+      "awayTeam": "Kings Heath Sports U14 Dynamo",
+      "location": "KING EDWARD VI SHELDON HEATH ACADEMY KESH3 - 12:45PM 3G",
+      "competition": "U14 Division 9"
+    }
+  },
+  {
+    "id": "generated:kings eleven u14|vision u14 raiders|20/09/26 14:00",
+    "division_id": "782530406",
+    "division_name": "U14 Division 9",
+    "home_team_id": null,
+    "home_team": "Kings Eleven U14",
+    "away_team_id": null,
+    "away_team": "Vision U14 Raiders",
+    "date": "20/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 14:00",
+      "homeTeam": "Kings Eleven U14",
+      "awayTeam": "Vision U14 Raiders",
+      "location": "WAKE GREEN PLAYING FIELDS Pitch 1 - 14:00PM",
+      "competition": "U14 Division 9"
+    }
+  },
+  {
+    "id": "generated:norton lindsey juniors u13|continental star u13 fwa|13/09/26 10:30",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Norton Lindsey Juniors U13",
+    "away_team_id": null,
+    "away_team": "Continental Star U13 FWA",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Norton Lindsey Juniors U13",
+      "awayTeam": "Continental Star U13 FWA",
+      "location": "THE KINGSLEY SCHOOL PLAYING FIELDS Pitch 2 - 10:30AM",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:redditch united u13 aa|hampton u13 reds|13/09/26 11:00",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Redditch United U13 AA",
+    "away_team_id": null,
+    "away_team": "Hampton U13 Reds",
+    "date": "13/09/26 11:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:00",
+      "homeTeam": "Redditch United U13 AA",
+      "awayTeam": "Hampton U13 Reds",
+      "location": "REDDITCH UNITED FOOTBALL CLUB RED2A/B - 11:00AM 3G",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:solihull moors foundation u13 sb|kidderminster harriers youth u13 rw|13/09/26 11:00",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Solihull Moors Foundation U13 SB",
+    "away_team_id": null,
+    "away_team": "Kidderminster Harriers Youth U13 RW",
+    "date": "13/09/26 11:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:00",
+      "homeTeam": "Solihull Moors Foundation U13 SB",
+      "awayTeam": "Kidderminster Harriers Youth U13 RW",
+      "location": "DAMSON PARK 3G Pitch 1C/D - 11:00AM",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:arden forest u13 vipers|sutton united u13 tigers|13/09/26 12:30",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Arden Forest U13 Vipers",
+    "away_team_id": null,
+    "away_team": "Sutton United U13 Tigers",
+    "date": "13/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:30",
+      "homeTeam": "Arden Forest U13 Vipers",
+      "awayTeam": "Sutton United U13 Tigers",
+      "location": "GRACE ACADEMY SOLIHULL 3G Pitch 2 - 12:30PM",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:four oaks club u13 saints|arden forest u13 vipers|20/09/26 10:30",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Four Oaks Club U13 Saints",
+    "away_team_id": null,
+    "away_team": "Arden Forest U13 Vipers",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Four Oaks Club U13 Saints",
+      "awayTeam": "Arden Forest U13 Vipers",
+      "location": "MILL GREEN SPORTS GROUND Pitch 1 - 10:30AM",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:redditch united u13 aa|solihull moors foundation u13 sb|20/09/26 11:00",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Redditch United U13 AA",
+    "away_team_id": null,
+    "away_team": "Solihull Moors Foundation U13 SB",
+    "date": "20/09/26 11:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:00",
+      "homeTeam": "Redditch United U13 AA",
+      "awayTeam": "Solihull Moors Foundation U13 SB",
+      "location": "TRINITY HIGH SCHOOL TRIN2A/B - 11:00AM 3G",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:sutton united u13 tigers|norton lindsey juniors u13|20/09/26 11:30",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Sutton United U13 Tigers",
+    "away_team_id": null,
+    "away_team": "Norton Lindsey Juniors U13",
+    "date": "20/09/26 11:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:30",
+      "homeTeam": "Sutton United U13 Tigers",
+      "awayTeam": "Norton Lindsey Juniors U13",
+      "location": "SUTTON UNITED FC Paddock - 11:30AM",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:continental star u13 fwa|hampton u13 reds|20/09/26 12:30",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Continental Star U13 FWA",
+    "away_team_id": null,
+    "away_team": "Hampton U13 Reds",
+    "date": "20/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:30",
+      "homeTeam": "Continental Star U13 FWA",
+      "awayTeam": "Hampton U13 Reds",
+      "location": "HOLFORD DRIVE COMMUNITY SPORTS HUB Pitch 2 - 12:30PM",
+      "competition": "U13 Premier Division"
+    }
+  },
+  {
+    "id": "generated:hampton u13 sports|kidderminster harriers youth u13 rw|20/09/26 14:00",
+    "division_id": "347311672",
+    "division_name": "U13 Premier Division",
+    "home_team_id": null,
+    "home_team": "Hampton U13 Sports",
+    "away_team_id": null,
+    "away_team": "Kidderminster Harriers Youth U13 RW",
+    "date": "20/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 14:00",
+      "homeTeam": "Hampton U13 Sports",
+      "awayTeam": "Kidderminster Harriers Youth U13 RW",
+      "location": "FIELD LANE (HAMPTON FC) Pitch 3 - 14:00PM",
+      "competition": "U13 Premier Division"
     }
   },
   {
@@ -4767,168 +4929,6 @@
       "awayTeam": "Holly Lane United U14 White",
       "location": "BOLEYN ROAD PLAYING FIELD Pitch 1 - 14:00PM",
       "competition": "U14 Division 11"
-    }
-  },
-  {
-    "id": "generated:norton lindsey juniors u13|continental star u13 fwa|13/09/26 10:30",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Norton Lindsey Juniors U13",
-    "away_team_id": null,
-    "away_team": "Continental Star U13 FWA",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Norton Lindsey Juniors U13",
-      "awayTeam": "Continental Star U13 FWA",
-      "location": "THE KINGSLEY SCHOOL PLAYING FIELDS Pitch 2 - 10:30AM",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:redditch united u13 aa|hampton u13 reds|13/09/26 11:00",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Redditch United U13 AA",
-    "away_team_id": null,
-    "away_team": "Hampton U13 Reds",
-    "date": "13/09/26 11:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:00",
-      "homeTeam": "Redditch United U13 AA",
-      "awayTeam": "Hampton U13 Reds",
-      "location": "REDDITCH UNITED FOOTBALL CLUB RED2A/B - 11:00AM 3G",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:solihull moors foundation u13 sb|kidderminster harriers youth u13 rw|13/09/26 11:00",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Solihull Moors Foundation U13 SB",
-    "away_team_id": null,
-    "away_team": "Kidderminster Harriers Youth U13 RW",
-    "date": "13/09/26 11:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:00",
-      "homeTeam": "Solihull Moors Foundation U13 SB",
-      "awayTeam": "Kidderminster Harriers Youth U13 RW",
-      "location": "DAMSON PARK 3G Pitch 1C/D - 11:00AM",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:arden forest u13 vipers|sutton united u13 tigers|13/09/26 12:30",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Arden Forest U13 Vipers",
-    "away_team_id": null,
-    "away_team": "Sutton United U13 Tigers",
-    "date": "13/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:30",
-      "homeTeam": "Arden Forest U13 Vipers",
-      "awayTeam": "Sutton United U13 Tigers",
-      "location": "GRACE ACADEMY SOLIHULL 3G Pitch 2 - 12:30PM",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:four oaks club u13 saints|arden forest u13 vipers|20/09/26 10:30",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Four Oaks Club U13 Saints",
-    "away_team_id": null,
-    "away_team": "Arden Forest U13 Vipers",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Four Oaks Club U13 Saints",
-      "awayTeam": "Arden Forest U13 Vipers",
-      "location": "MILL GREEN SPORTS GROUND Pitch 1 - 10:30AM",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:redditch united u13 aa|solihull moors foundation u13 sb|20/09/26 11:00",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Redditch United U13 AA",
-    "away_team_id": null,
-    "away_team": "Solihull Moors Foundation U13 SB",
-    "date": "20/09/26 11:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 11:00",
-      "homeTeam": "Redditch United U13 AA",
-      "awayTeam": "Solihull Moors Foundation U13 SB",
-      "location": "TRINITY HIGH SCHOOL TRIN2A/B - 11:00AM 3G",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:sutton united u13 tigers|norton lindsey juniors u13|20/09/26 11:30",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Sutton United U13 Tigers",
-    "away_team_id": null,
-    "away_team": "Norton Lindsey Juniors U13",
-    "date": "20/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 11:30",
-      "homeTeam": "Sutton United U13 Tigers",
-      "awayTeam": "Norton Lindsey Juniors U13",
-      "location": "SUTTON UNITED FC Paddock - 11:30AM",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:continental star u13 fwa|hampton u13 reds|20/09/26 12:30",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Continental Star U13 FWA",
-    "away_team_id": null,
-    "away_team": "Hampton U13 Reds",
-    "date": "20/09/26 12:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 12:30",
-      "homeTeam": "Continental Star U13 FWA",
-      "awayTeam": "Hampton U13 Reds",
-      "location": "HOLFORD DRIVE COMMUNITY SPORTS HUB Pitch 2 - 12:30PM",
-      "competition": "U13 Premier Division"
-    }
-  },
-  {
-    "id": "generated:hampton u13 sports|kidderminster harriers youth u13 rw|20/09/26 14:00",
-    "division_id": "347311672",
-    "division_name": "U13 Premier Division",
-    "home_team_id": null,
-    "home_team": "Hampton U13 Sports",
-    "away_team_id": null,
-    "away_team": "Kidderminster Harriers Youth U13 RW",
-    "date": "20/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 14:00",
-      "homeTeam": "Hampton U13 Sports",
-      "awayTeam": "Kidderminster Harriers Youth U13 RW",
-      "location": "FIELD LANE (HAMPTON FC) Pitch 3 - 14:00PM",
-      "competition": "U13 Premier Division"
     }
   },
   {
@@ -5436,186 +5436,6 @@
     }
   },
   {
-    "id": "generated:coldlands colts u13 blues|alcester town u13 romans sunday|13/09/26 10:00",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Coldlands Colts U13 Blues",
-    "away_team_id": null,
-    "away_team": "Alcester Town U13 Romans Sunday",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Coldlands Colts U13 Blues",
-      "awayTeam": "Alcester Town U13 Romans Sunday",
-      "location": "COLDLANDS COLTS FC Pitch 1 - 10:00AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:leafield athletic u13|worcester city youth u13 blues cwyfl|13/09/26 10:00",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Leafield Athletic U13",
-    "away_team_id": null,
-    "away_team": "Worcester City Youth U13 Blues CWYFL",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Leafield Athletic U13",
-      "awayTeam": "Worcester City Youth U13 Blues CWYFL",
-      "location": "LEAFIELD ATHLETIC FC (TYTHE BARN LANE) Pitch 1 - 10:00AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:sheldon royals u13|hillfield afc u13 black|13/09/26 10:00",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Sheldon Royals U13",
-    "away_team_id": null,
-    "away_team": "Hillfield AFC U13 Black",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Sheldon Royals U13",
-      "awayTeam": "Hillfield AFC U13 Black",
-      "location": "KING EDWARD VI SHELDON HEATH ACADEMY Pitch 3 - 10:00AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:dosthill colts u13 blues|cadbury athletic u13 juniors|13/09/26 10:30",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Dosthill Colts U13 Blues",
-    "away_team_id": null,
-    "away_team": "Cadbury Athletic U13 Juniors",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Dosthill Colts U13 Blues",
-      "awayTeam": "Cadbury Athletic U13 Juniors",
-      "location": "WILNECOTE COMMUNITY LEISURE CENTRE Pitch 2 - 10:30AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:kidderminster harriers youth u13 or|sutton coldfield town juniors u13 green|13/09/26 11:30",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Kidderminster Harriers Youth U13 OR",
-    "away_team_id": null,
-    "away_team": "Sutton Coldfield Town Juniors U13 Green",
-    "date": "13/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:30",
-      "homeTeam": "Kidderminster Harriers Youth U13 OR",
-      "awayTeam": "Sutton Coldfield Town Juniors U13 Green",
-      "location": "KIDDERMINSTER HARRIERS FC (CENTRE OF SPORTING EXCELLENCE) Pitch 13 - 11:30AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:hillfield afc u13 black|sheldon royals u13|20/09/26 10:00",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Hillfield AFC U13 Black",
-    "away_team_id": null,
-    "away_team": "Sheldon Royals U13",
-    "date": "20/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:00",
-      "homeTeam": "Hillfield AFC U13 Black",
-      "awayTeam": "Sheldon Royals U13",
-      "location": "HILLFIELD AFC Pitch 6 - 10:00AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:cadbury athletic u13 juniors|dosthill colts u13 blues|20/09/26 10:30",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Cadbury Athletic U13 Juniors",
-    "away_team_id": null,
-    "away_team": "Dosthill Colts U13 Blues",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Cadbury Athletic U13 Juniors",
-      "awayTeam": "Dosthill Colts U13 Blues",
-      "location": "BOURNVILLE RECREATION GROUND Pitch 3 - 10:30AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:worcester city youth u13 blues cwyfl|leafield athletic u13|20/09/26 10:30",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Worcester City Youth U13 Blues CWYFL",
-    "away_team_id": null,
-    "away_team": "Leafield Athletic U13",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Worcester City Youth U13 Blues CWYFL",
-      "awayTeam": "Leafield Athletic U13",
-      "location": "PERDISWELL LEISURE CENTRE Pitch 1 - 10:30AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:alcester town u13 romans sunday|coldlands colts u13 blues|20/09/26 11:15",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Alcester Town U13 Romans Sunday",
-    "away_team_id": null,
-    "away_team": "Coldlands Colts U13 Blues",
-    "date": "20/09/26 11:15",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 11:15",
-      "homeTeam": "Alcester Town U13 Romans Sunday",
-      "awayTeam": "Coldlands Colts U13 Blues",
-      "location": "ALCESTER TOWN FC (STRATFORD ROAD) Pitch 2 - 11:15AM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
-    "id": "generated:sutton coldfield town juniors u13 green|kidderminster harriers youth u13 or|20/09/26 12:00",
-    "division_id": "199872187",
-    "division_name": "U13 Division 5",
-    "home_team_id": null,
-    "home_team": "Sutton Coldfield Town Juniors U13 Green",
-    "away_team_id": null,
-    "away_team": "Kidderminster Harriers Youth U13 OR",
-    "date": "20/09/26 12:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 12:00",
-      "homeTeam": "Sutton Coldfield Town Juniors U13 Green",
-      "awayTeam": "Kidderminster Harriers Youth U13 OR",
-      "location": "BISHOP WALSH CATHOLIC SCHOOL Pitch 7 - 12:00PM",
-      "competition": "U13 Division 5"
-    }
-  },
-  {
     "id": "generated:perdiswell colts u13 harriers (sunday)|dosthill colts u13 predators|13/09/26 10:30",
     "division_id": "272972412",
     "division_name": "U13 Division 4",
@@ -5796,6 +5616,186 @@
     }
   },
   {
+    "id": "generated:coldlands colts u13 blues|alcester town u13 romans sunday|13/09/26 10:00",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Coldlands Colts U13 Blues",
+    "away_team_id": null,
+    "away_team": "Alcester Town U13 Romans Sunday",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Coldlands Colts U13 Blues",
+      "awayTeam": "Alcester Town U13 Romans Sunday",
+      "location": "COLDLANDS COLTS FC Pitch 1 - 10:00AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:leafield athletic u13|worcester city youth u13 blues cwyfl|13/09/26 10:00",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Leafield Athletic U13",
+    "away_team_id": null,
+    "away_team": "Worcester City Youth U13 Blues CWYFL",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Leafield Athletic U13",
+      "awayTeam": "Worcester City Youth U13 Blues CWYFL",
+      "location": "LEAFIELD ATHLETIC FC (TYTHE BARN LANE) Pitch 1 - 10:00AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:sheldon royals u13|hillfield afc u13 black|13/09/26 10:00",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Sheldon Royals U13",
+    "away_team_id": null,
+    "away_team": "Hillfield AFC U13 Black",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Sheldon Royals U13",
+      "awayTeam": "Hillfield AFC U13 Black",
+      "location": "KING EDWARD VI SHELDON HEATH ACADEMY Pitch 3 - 10:00AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:dosthill colts u13 blues|cadbury athletic u13 juniors|13/09/26 10:30",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Dosthill Colts U13 Blues",
+    "away_team_id": null,
+    "away_team": "Cadbury Athletic U13 Juniors",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Dosthill Colts U13 Blues",
+      "awayTeam": "Cadbury Athletic U13 Juniors",
+      "location": "WILNECOTE COMMUNITY LEISURE CENTRE Pitch 2 - 10:30AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:kidderminster harriers youth u13 or|sutton coldfield town juniors u13 green|13/09/26 11:30",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Kidderminster Harriers Youth U13 OR",
+    "away_team_id": null,
+    "away_team": "Sutton Coldfield Town Juniors U13 Green",
+    "date": "13/09/26 11:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:30",
+      "homeTeam": "Kidderminster Harriers Youth U13 OR",
+      "awayTeam": "Sutton Coldfield Town Juniors U13 Green",
+      "location": "KIDDERMINSTER HARRIERS FC (CENTRE OF SPORTING EXCELLENCE) Pitch 13 - 11:30AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:hillfield afc u13 black|sheldon royals u13|20/09/26 10:00",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Hillfield AFC U13 Black",
+    "away_team_id": null,
+    "away_team": "Sheldon Royals U13",
+    "date": "20/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:00",
+      "homeTeam": "Hillfield AFC U13 Black",
+      "awayTeam": "Sheldon Royals U13",
+      "location": "HILLFIELD AFC Pitch 6 - 10:00AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:cadbury athletic u13 juniors|dosthill colts u13 blues|20/09/26 10:30",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Cadbury Athletic U13 Juniors",
+    "away_team_id": null,
+    "away_team": "Dosthill Colts U13 Blues",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Cadbury Athletic U13 Juniors",
+      "awayTeam": "Dosthill Colts U13 Blues",
+      "location": "BOURNVILLE RECREATION GROUND Pitch 3 - 10:30AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:worcester city youth u13 blues cwyfl|leafield athletic u13|20/09/26 10:30",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Worcester City Youth U13 Blues CWYFL",
+    "away_team_id": null,
+    "away_team": "Leafield Athletic U13",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Worcester City Youth U13 Blues CWYFL",
+      "awayTeam": "Leafield Athletic U13",
+      "location": "PERDISWELL LEISURE CENTRE Pitch 1 - 10:30AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:alcester town u13 romans sunday|coldlands colts u13 blues|20/09/26 11:15",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Alcester Town U13 Romans Sunday",
+    "away_team_id": null,
+    "away_team": "Coldlands Colts U13 Blues",
+    "date": "20/09/26 11:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:15",
+      "homeTeam": "Alcester Town U13 Romans Sunday",
+      "awayTeam": "Coldlands Colts U13 Blues",
+      "location": "ALCESTER TOWN FC (STRATFORD ROAD) Pitch 2 - 11:15AM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
+    "id": "generated:sutton coldfield town juniors u13 green|kidderminster harriers youth u13 or|20/09/26 12:00",
+    "division_id": "199872187",
+    "division_name": "U13 Division 5",
+    "home_team_id": null,
+    "home_team": "Sutton Coldfield Town Juniors U13 Green",
+    "away_team_id": null,
+    "away_team": "Kidderminster Harriers Youth U13 OR",
+    "date": "20/09/26 12:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:00",
+      "homeTeam": "Sutton Coldfield Town Juniors U13 Green",
+      "awayTeam": "Kidderminster Harriers Youth U13 OR",
+      "location": "BISHOP WALSH CATHOLIC SCHOOL Pitch 7 - 12:00PM",
+      "competition": "U13 Division 5"
+    }
+  },
+  {
     "id": "generated:t t elite u13 bulldogs|knowle u13 panthers|13/09/26 10:30",
     "division_id": "129288301",
     "division_name": "U13 Division 6",
@@ -5955,6 +5955,186 @@
       "awayTeam": "Crusaders U13 Boys",
       "location": "CASTLE VALE FOOTBALL STADIUM CV2C/D - 14:00PM",
       "competition": "U13 Division 6"
+    }
+  },
+  {
+    "id": "generated:mahal warriors u13|high rise u13|13/09/26 10:00",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Mahal Warriors U13",
+    "away_team_id": null,
+    "away_team": "High Rise U13",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Mahal Warriors U13",
+      "awayTeam": "High Rise U13",
+      "location": "GEORGE SALTER ACADEMY 3G Pitch 1A/B - 10:00AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:redditch borough juniors u13 mh|sportsco u13 celtic|13/09/26 10:00",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Redditch Borough Juniors U13 MH",
+    "away_team_id": null,
+    "away_team": "Sportsco U13 Celtic",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Redditch Borough Juniors U13 MH",
+      "awayTeam": "Sportsco U13 Celtic",
+      "location": "REDDITCH BOROUGH COMMUNITY SPORTS AND SOCIAL CLUB Pitch 5 - 10:00AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:atherstone rangers junior u13 raptors|warwickshire community u13|13/09/26 10:30",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Atherstone Rangers Junior U13 Raptors",
+    "away_team_id": null,
+    "away_team": "Warwickshire Community U13",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Atherstone Rangers Junior U13 Raptors",
+      "awayTeam": "Warwickshire Community U13",
+      "location": "ATHERSTONE SPORTS CLUB Pitch 1 - 10:30AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:c c c u13 whites|birmingham rangers u13 red|13/09/26 10:30",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "C C C U13 Whites",
+    "away_team_id": null,
+    "away_team": "Birmingham Rangers U13 Red",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "C C C U13 Whites",
+      "awayTeam": "Birmingham Rangers U13 Red",
+      "location": "ARTHUR FARRELL MEMORIAL GROUND Pitch 4 - 10:30AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:hollywood united u13 warriors|bournville u13 greens|13/09/26 10:30",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Hollywood United U13 Warriors",
+    "away_team_id": null,
+    "away_team": "Bournville U13 Greens",
+    "date": "13/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Hollywood United U13 Warriors",
+      "awayTeam": "Bournville U13 Greens",
+      "location": "WOODRUSH RUGBY FOOTBALL CLUB Pitch 2 - 10:30AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:birmingham rangers u13 red|c c c u13 whites|20/09/26 09:30",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Birmingham Rangers U13 Red",
+    "away_team_id": null,
+    "away_team": "C C C U13 Whites",
+    "date": "20/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 09:30",
+      "homeTeam": "Birmingham Rangers U13 Red",
+      "awayTeam": "C C C U13 Whites",
+      "location": "ELMDON PLAYING FIELD Pitch 2 - 09:30AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:warwickshire community u13|atherstone rangers junior u13 raptors|20/09/26 09:30",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Warwickshire Community U13",
+    "away_team_id": null,
+    "away_team": "Atherstone Rangers Junior U13 Raptors",
+    "date": "20/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 09:30",
+      "homeTeam": "Warwickshire Community U13",
+      "awayTeam": "Atherstone Rangers Junior U13 Raptors",
+      "location": "ST NICHOLAS PARK LEISURE CENTRE Pitch 3 - 09:30AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:sportsco u13 celtic|mahal warriors u13|20/09/26 10:00",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Sportsco U13 Celtic",
+    "away_team_id": null,
+    "away_team": "Mahal Warriors U13",
+    "date": "20/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:00",
+      "homeTeam": "Sportsco U13 Celtic",
+      "awayTeam": "Mahal Warriors U13",
+      "location": "WISHAW LANE PLAYING FIELDS Pitch 3 - 10:00AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:high rise u13|redditch borough juniors u13 mh|20/09/26 10:30",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "High Rise U13",
+    "away_team_id": null,
+    "away_team": "Redditch Borough Juniors U13 MH",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "High Rise U13",
+      "awayTeam": "Redditch Borough Juniors U13 MH",
+      "location": "NECHELLS WELLBEING CENTRE Pitch 1 - 10:30AM",
+      "competition": "U13 Division 8"
+    }
+  },
+  {
+    "id": "generated:bournville u13 greens|hollywood united u13 warriors|20/09/26 11:15",
+    "division_id": "363359196",
+    "division_name": "U13 Division 8",
+    "home_team_id": null,
+    "home_team": "Bournville U13 Greens",
+    "away_team_id": null,
+    "away_team": "Hollywood United U13 Warriors",
+    "date": "20/09/26 11:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:15",
+      "homeTeam": "Bournville U13 Greens",
+      "awayTeam": "Hollywood United U13 Warriors",
+      "location": "ROWHEATH PAVILION Pitch 1 - 11:15AM",
+      "competition": "U13 Division 8"
     }
   },
   {
@@ -6315,186 +6495,6 @@
       "awayTeam": "Alvechurch Foundation U13 TL",
       "location": "GRACE ACADEMY SOLIHULL 3G Pitch 2 - 12:30PM",
       "competition": "U13 Division 9"
-    }
-  },
-  {
-    "id": "generated:mahal warriors u13|high rise u13|13/09/26 10:00",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Mahal Warriors U13",
-    "away_team_id": null,
-    "away_team": "High Rise U13",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Mahal Warriors U13",
-      "awayTeam": "High Rise U13",
-      "location": "GEORGE SALTER ACADEMY 3G Pitch 1A/B - 10:00AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:redditch borough juniors u13 mh|sportsco u13 celtic|13/09/26 10:00",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Redditch Borough Juniors U13 MH",
-    "away_team_id": null,
-    "away_team": "Sportsco U13 Celtic",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Redditch Borough Juniors U13 MH",
-      "awayTeam": "Sportsco U13 Celtic",
-      "location": "REDDITCH BOROUGH COMMUNITY SPORTS AND SOCIAL CLUB Pitch 5 - 10:00AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:atherstone rangers junior u13 raptors|warwickshire community u13|13/09/26 10:30",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Atherstone Rangers Junior U13 Raptors",
-    "away_team_id": null,
-    "away_team": "Warwickshire Community U13",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Atherstone Rangers Junior U13 Raptors",
-      "awayTeam": "Warwickshire Community U13",
-      "location": "ATHERSTONE SPORTS CLUB Pitch 1 - 10:30AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:c c c u13 whites|birmingham rangers u13 red|13/09/26 10:30",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "C C C U13 Whites",
-    "away_team_id": null,
-    "away_team": "Birmingham Rangers U13 Red",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "C C C U13 Whites",
-      "awayTeam": "Birmingham Rangers U13 Red",
-      "location": "ARTHUR FARRELL MEMORIAL GROUND Pitch 4 - 10:30AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:hollywood united u13 warriors|bournville u13 greens|13/09/26 10:30",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Hollywood United U13 Warriors",
-    "away_team_id": null,
-    "away_team": "Bournville U13 Greens",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Hollywood United U13 Warriors",
-      "awayTeam": "Bournville U13 Greens",
-      "location": "WOODRUSH RUGBY FOOTBALL CLUB Pitch 2 - 10:30AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:birmingham rangers u13 red|c c c u13 whites|20/09/26 09:30",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Birmingham Rangers U13 Red",
-    "away_team_id": null,
-    "away_team": "C C C U13 Whites",
-    "date": "20/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Birmingham Rangers U13 Red",
-      "awayTeam": "C C C U13 Whites",
-      "location": "ELMDON PLAYING FIELD Pitch 2 - 09:30AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:warwickshire community u13|atherstone rangers junior u13 raptors|20/09/26 09:30",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Warwickshire Community U13",
-    "away_team_id": null,
-    "away_team": "Atherstone Rangers Junior U13 Raptors",
-    "date": "20/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Warwickshire Community U13",
-      "awayTeam": "Atherstone Rangers Junior U13 Raptors",
-      "location": "ST NICHOLAS PARK LEISURE CENTRE Pitch 3 - 09:30AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:sportsco u13 celtic|mahal warriors u13|20/09/26 10:00",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Sportsco U13 Celtic",
-    "away_team_id": null,
-    "away_team": "Mahal Warriors U13",
-    "date": "20/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:00",
-      "homeTeam": "Sportsco U13 Celtic",
-      "awayTeam": "Mahal Warriors U13",
-      "location": "WISHAW LANE PLAYING FIELDS Pitch 3 - 10:00AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:high rise u13|redditch borough juniors u13 mh|20/09/26 10:30",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "High Rise U13",
-    "away_team_id": null,
-    "away_team": "Redditch Borough Juniors U13 MH",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "High Rise U13",
-      "awayTeam": "Redditch Borough Juniors U13 MH",
-      "location": "NECHELLS WELLBEING CENTRE Pitch 1 - 10:30AM",
-      "competition": "U13 Division 8"
-    }
-  },
-  {
-    "id": "generated:bournville u13 greens|hollywood united u13 warriors|20/09/26 11:15",
-    "division_id": "363359196",
-    "division_name": "U13 Division 8",
-    "home_team_id": null,
-    "home_team": "Bournville U13 Greens",
-    "away_team_id": null,
-    "away_team": "Hollywood United U13 Warriors",
-    "date": "20/09/26 11:15",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 11:15",
-      "homeTeam": "Bournville U13 Greens",
-      "awayTeam": "Hollywood United U13 Warriors",
-      "location": "ROWHEATH PAVILION Pitch 1 - 11:15AM",
-      "competition": "U13 Division 8"
     }
   },
   {
@@ -9000,6 +9000,204 @@
     }
   },
   {
+    "id": "generated:maypole u12 colts|bartley reds u12 south|13/09/26 09:30",
+    "division_id": "674055830",
+    "division_name": "U12 Division 12",
+    "home_team_id": null,
+    "home_team": "Maypole U12 Colts",
+    "away_team_id": null,
+    "away_team": "Bartley Reds U12 South",
+    "date": "13/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 09:30",
+      "homeTeam": "Maypole U12 Colts",
+      "awayTeam": "Bartley Reds U12 South",
+      "location": "CHRIST CHURCH SECONDARY ACADEMY 3G Pitch 1A/B - 09:30AM",
+      "competition": "U12 Division 12"
+    }
+  },
+  {
+    "id": "generated:sporting u12|studley juniors u12 juniors|13/09/26 09:30",
+    "division_id": "674055830",
+    "division_name": "U12 Division 12",
+    "home_team_id": null,
+    "home_team": "Sporting U12",
+    "away_team_id": null,
+    "away_team": "Studley Juniors U12 Juniors",
+    "date": "13/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 09:30",
+      "homeTeam": "Sporting U12",
+      "awayTeam": "Studley Juniors U12 Juniors",
+      "location": "BROCKHURST ROAD PLAYING FIELD Pitch 3 - 09:30AM",
+      "competition": "U12 Division 12"
+    }
+  },
+  {
+    "id": "generated:olton ravens u12 ta|kings heath panthers u12 pl|13/09/26 10:00",
+    "division_id": "674055830",
+    "division_name": "U12 Division 12",
+    "home_team_id": null,
+    "home_team": "Olton Ravens U12 TA",
+    "away_team_id": null,
+    "away_team": "Kings Heath Panthers U12 PL",
+    "date": "13/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 10:00",
+      "homeTeam": "Olton Ravens U12 TA",
+      "awayTeam": "Kings Heath Panthers U12 PL",
+      "location": "THE LAND ROVER SPORTS &amp; SOCIAL CLUB Pitch 4 - 10:00AM",
+      "competition": "U12 Division 12"
+    }
+  },
+  {
+    "id": "generated:redditch united u12 bd|sportsco u12 rangers|13/09/26 11:00",
+    "division_id": "674055830",
+    "division_name": "U12 Division 12",
+    "home_team_id": null,
+    "home_team": "Redditch United U12 BD",
+    "away_team_id": null,
+    "away_team": "Sportsco U12 Rangers",
+    "date": "13/09/26 11:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:00",
+      "homeTeam": "Redditch United U12 BD",
+      "awayTeam": "Sportsco U12 Rangers",
+      "location": "TRINITY HIGH SCHOOL TRIN2A/B - 11:00AM 3G",
+      "competition": "U12 Division 12"
+    }
+  },
+  {
+    "id": "generated:sportsco u12 rangers|holly lane united u12 celtics|20/09/26 10:00",
+    "division_id": "674055830",
+    "division_name": "U12 Division 12",
+    "home_team_id": null,
+    "home_team": "Sportsco U12 Rangers",
+    "away_team_id": null,
+    "away_team": "Holly Lane United U12 Celtics",
+    "date": "20/09/26 10:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:00",
+      "homeTeam": "Sportsco U12 Rangers",
+      "awayTeam": "Holly Lane United U12 Celtics",
+      "location": "WISHAW LANE PLAYING FIELDS Pitch 2 - 10:00AM",
+      "competition": "U12 Division 12"
+    }
+  },
+  {
+    "id": "generated:redditch united u12 bd|earlswood town u12 reds|20/09/26 09:30",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "Redditch United U12 BD",
+    "away_team_id": null,
+    "away_team": "Earlswood Town U12 Reds",
+    "date": "20/09/26 09:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 09:30",
+      "homeTeam": "Redditch United U12 BD",
+      "awayTeam": "Earlswood Town U12 Reds",
+      "location": "REDDITCH UNITED FOOTBALL CLUB RED1C/D - 09:30AM 3G",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
+    "id": "generated:f c elite u12 next gen|sporting u12|20/09/26 11:15",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "F C Elite U12 Next Gen",
+    "away_team_id": null,
+    "away_team": "Sporting U12",
+    "date": "20/09/26 11:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 11:15",
+      "homeTeam": "F C Elite U12 Next Gen",
+      "awayTeam": "Sporting U12",
+      "location": "TWICKENHAM PARK Pitch 2 - 11:15AM",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
+    "id": "generated:studley juniors u12 juniors|south redditch eagles u12 blue|20/09/26 12:15",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "Studley Juniors U12 Juniors",
+    "away_team_id": null,
+    "away_team": "South Redditch Eagles U12 Blue",
+    "date": "20/09/26 12:15",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:15",
+      "homeTeam": "Studley Juniors U12 Juniors",
+      "awayTeam": "South Redditch Eagles U12 Blue",
+      "location": "WOODFIELD ACADEMY 3G Pitch 1A/B - 12:15PM",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
+    "id": "generated:silhill u12 lions|maypole u12 colts|20/09/26 12:30",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "Silhill U12 Lions",
+    "away_team_id": null,
+    "away_team": "Maypole U12 Colts",
+    "date": "20/09/26 12:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 12:30",
+      "homeTeam": "Silhill U12 Lions",
+      "awayTeam": "Maypole U12 Colts",
+      "location": "TUDOR GRANGE ACADEMY SOLIHULL 3G Pitch 1C/D - 12:30PM",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
+    "id": "generated:bartley reds u12 south|knowle u12 jackals|20/09/26 14:00",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "Bartley Reds U12 South",
+    "away_team_id": null,
+    "away_team": "Knowle U12 Jackals",
+    "date": "20/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 14:00",
+      "homeTeam": "Bartley Reds U12 South",
+      "awayTeam": "Knowle U12 Jackals",
+      "location": "LORDSWOOD GIRLS SCHOOL 3G Pitch 1C/D - 14:00PM",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
+    "id": "generated:sutton coldfield town juniors u12 red|olton ravens u12 ta|20/09/26 14:00",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "Sutton Coldfield Town Juniors U12 Red",
+    "away_team_id": null,
+    "away_team": "Olton Ravens U12 TA",
+    "date": "20/09/26 14:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 14:00",
+      "homeTeam": "Sutton Coldfield Town Juniors U12 Red",
+      "awayTeam": "Olton Ravens U12 TA",
+      "location": "BISHOP WALSH CATHOLIC SCHOOL Pitch 6 - 14:00PM",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
     "id": "generated:solihull u12 w|birmingham rangers u12 yellow|13/09/26 10:00",
     "division_id": "589667240",
     "division_name": "U12 Division 11",
@@ -9144,200 +9342,182 @@
     }
   },
   {
-    "id": "generated:studley juniors u12 juniors|south redditch eagles u12 blue|20/09/26 12:15",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
+    "id": "generated:knowle u12 jackals|arden forest u12 girls phoenix|13/09/26 10:30",
+    "division_id": "594935678",
+    "division_name": "U12 Division 13",
     "home_team_id": null,
-    "home_team": "Studley Juniors U12 Juniors",
+    "home_team": "Knowle U12 Jackals",
     "away_team_id": null,
-    "away_team": "South Redditch Eagles U12 Blue",
-    "date": "20/09/26 12:15",
+    "away_team": "Arden Forest U12 Girls Phoenix",
+    "date": "13/09/26 10:30",
     "status": null,
     "raw": {
-      "fixtureDateTime": "20/09/26 12:15",
-      "homeTeam": "Studley Juniors U12 Juniors",
-      "awayTeam": "South Redditch Eagles U12 Blue",
-      "location": "WOODFIELD ACADEMY 3G Pitch 1A/B - 12:15PM",
-      "competition": "U12 Open Cup"
+      "fixtureDateTime": "13/09/26 10:30",
+      "homeTeam": "Knowle U12 Jackals",
+      "awayTeam": "Arden Forest U12 Girls Phoenix",
+      "location": "WEST WARWICKSHIRE SPORTS COMPLEX Pitch 3 - 10:30AM",
+      "competition": "U12 Division 13"
     }
   },
   {
-    "id": "generated:maypole u12 colts|bartley reds u12 south|13/09/26 09:30",
-    "division_id": "674055830",
-    "division_name": "U12 Division 12",
+    "id": "generated:maypole u12 united|kings heath concorde juniors u12|13/09/26 11:00",
+    "division_id": "594935678",
+    "division_name": "U12 Division 13",
     "home_team_id": null,
-    "home_team": "Maypole U12 Colts",
+    "home_team": "Maypole U12 United",
     "away_team_id": null,
-    "away_team": "Bartley Reds U12 South",
-    "date": "13/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 09:30",
-      "homeTeam": "Maypole U12 Colts",
-      "awayTeam": "Bartley Reds U12 South",
-      "location": "CHRIST CHURCH SECONDARY ACADEMY 3G Pitch 1A/B - 09:30AM",
-      "competition": "U12 Division 12"
-    }
-  },
-  {
-    "id": "generated:sporting u12|studley juniors u12 juniors|13/09/26 09:30",
-    "division_id": "674055830",
-    "division_name": "U12 Division 12",
-    "home_team_id": null,
-    "home_team": "Sporting U12",
-    "away_team_id": null,
-    "away_team": "Studley Juniors U12 Juniors",
-    "date": "13/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 09:30",
-      "homeTeam": "Sporting U12",
-      "awayTeam": "Studley Juniors U12 Juniors",
-      "location": "BROCKHURST ROAD PLAYING FIELD Pitch 3 - 09:30AM",
-      "competition": "U12 Division 12"
-    }
-  },
-  {
-    "id": "generated:olton ravens u12 ta|kings heath panthers u12 pl|13/09/26 10:00",
-    "division_id": "674055830",
-    "division_name": "U12 Division 12",
-    "home_team_id": null,
-    "home_team": "Olton Ravens U12 TA",
-    "away_team_id": null,
-    "away_team": "Kings Heath Panthers U12 PL",
-    "date": "13/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:00",
-      "homeTeam": "Olton Ravens U12 TA",
-      "awayTeam": "Kings Heath Panthers U12 PL",
-      "location": "THE LAND ROVER SPORTS &amp; SOCIAL CLUB Pitch 4 - 10:00AM",
-      "competition": "U12 Division 12"
-    }
-  },
-  {
-    "id": "generated:redditch united u12 bd|sportsco u12 rangers|13/09/26 11:00",
-    "division_id": "674055830",
-    "division_name": "U12 Division 12",
-    "home_team_id": null,
-    "home_team": "Redditch United U12 BD",
-    "away_team_id": null,
-    "away_team": "Sportsco U12 Rangers",
+    "away_team": "Kings Heath Concorde Juniors U12",
     "date": "13/09/26 11:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "13/09/26 11:00",
-      "homeTeam": "Redditch United U12 BD",
-      "awayTeam": "Sportsco U12 Rangers",
-      "location": "TRINITY HIGH SCHOOL TRIN2A/B - 11:00AM 3G",
-      "competition": "U12 Division 12"
+      "homeTeam": "Maypole U12 United",
+      "awayTeam": "Kings Heath Concorde Juniors U12",
+      "location": "CHRIST CHURCH SECONDARY ACADEMY 3G Pitch 1A/B - 11:00AM",
+      "competition": "U12 Division 13"
     }
   },
   {
-    "id": "generated:sportsco u12 rangers|holly lane united u12 celtics|20/09/26 10:00",
-    "division_id": "674055830",
-    "division_name": "U12 Division 12",
+    "id": "generated:l p a u12|holly lane united u12|13/09/26 11:30",
+    "division_id": "594935678",
+    "division_name": "U12 Division 13",
     "home_team_id": null,
-    "home_team": "Sportsco U12 Rangers",
+    "home_team": "L P A U12",
     "away_team_id": null,
-    "away_team": "Holly Lane United U12 Celtics",
-    "date": "20/09/26 10:00",
+    "away_team": "Holly Lane United U12",
+    "date": "13/09/26 11:30",
     "status": null,
     "raw": {
-      "fixtureDateTime": "20/09/26 10:00",
-      "homeTeam": "Sportsco U12 Rangers",
-      "awayTeam": "Holly Lane United U12 Celtics",
-      "location": "WISHAW LANE PLAYING FIELDS Pitch 2 - 10:00AM",
-      "competition": "U12 Division 12"
+      "fixtureDateTime": "13/09/26 11:30",
+      "homeTeam": "L P A U12",
+      "awayTeam": "Holly Lane United U12",
+      "location": "WASELEY HILLS HIGH SCHOOL Pitch 1 - 11:30AM",
+      "competition": "U12 Division 13"
     }
   },
   {
-    "id": "generated:redditch united u12 bd|earlswood town u12 reds|20/09/26 09:30",
+    "id": "generated:unity sport club u12 eagles|silhill u12 lions|13/09/26 11:30",
+    "division_id": "594935678",
+    "division_name": "U12 Division 13",
+    "home_team_id": null,
+    "home_team": "Unity Sport Club U12 Eagles",
+    "away_team_id": null,
+    "away_team": "Silhill U12 Lions",
+    "date": "13/09/26 11:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 11:30",
+      "homeTeam": "Unity Sport Club U12 Eagles",
+      "awayTeam": "Silhill U12 Lions",
+      "location": "MILL LANE Pitch 2 - 11:30AM",
+      "competition": "U12 Division 13"
+    }
+  },
+  {
+    "id": "generated:earlswood town u12 reds|a f c chelmsley u12 reds|13/09/26 12:00",
+    "division_id": "594935678",
+    "division_name": "U12 Division 13",
+    "home_team_id": null,
+    "home_team": "Earlswood Town U12 Reds",
+    "away_team_id": null,
+    "away_team": "A F C Chelmsley U12 Reds",
+    "date": "13/09/26 12:00",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "13/09/26 12:00",
+      "homeTeam": "Earlswood Town U12 Reds",
+      "awayTeam": "A F C Chelmsley U12 Reds",
+      "location": "THE PAVILIONS (EARLSWOOD) Pitch 2 - 12:00PM",
+      "competition": "U12 Division 13"
+    }
+  },
+  {
+    "id": "generated:arden forest u12 girls phoenix|waseley warriors u12|20/09/26 09:30",
     "division_id": null,
     "division_name": "U12 Open Cup",
     "home_team_id": null,
-    "home_team": "Redditch United U12 BD",
+    "home_team": "Arden Forest U12 Girls Phoenix",
     "away_team_id": null,
-    "away_team": "Earlswood Town U12 Reds",
+    "away_team": "Waseley Warriors U12",
     "date": "20/09/26 09:30",
     "status": null,
     "raw": {
       "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Redditch United U12 BD",
-      "awayTeam": "Earlswood Town U12 Reds",
-      "location": "REDDITCH UNITED FOOTBALL CLUB RED1C/D - 09:30AM 3G",
+      "homeTeam": "Arden Forest U12 Girls Phoenix",
+      "awayTeam": "Waseley Warriors U12",
+      "location": "TUDOR GRANGE ACADEMY KINGSHURST 3G Pitch 1C/D - 09:30AM",
       "competition": "U12 Open Cup"
     }
   },
   {
-    "id": "generated:f c elite u12 next gen|sporting u12|20/09/26 11:15",
+    "id": "generated:kings eleven u12|maypole u12 united|20/09/26 10:00",
     "division_id": null,
     "division_name": "U12 Open Cup",
     "home_team_id": null,
-    "home_team": "F C Elite U12 Next Gen",
+    "home_team": "Kings Eleven U12",
     "away_team_id": null,
-    "away_team": "Sporting U12",
-    "date": "20/09/26 11:15",
+    "away_team": "Maypole U12 United",
+    "date": "20/09/26 10:00",
     "status": null,
     "raw": {
-      "fixtureDateTime": "20/09/26 11:15",
-      "homeTeam": "F C Elite U12 Next Gen",
-      "awayTeam": "Sporting U12",
-      "location": "TWICKENHAM PARK Pitch 2 - 11:15AM",
+      "fixtureDateTime": "20/09/26 10:00",
+      "homeTeam": "Kings Eleven U12",
+      "awayTeam": "Maypole U12 United",
+      "location": "WAKE GREEN PLAYING FIELDS Pitch 2 - 10:00AM",
       "competition": "U12 Open Cup"
     }
   },
   {
-    "id": "generated:silhill u12 lions|maypole u12 colts|20/09/26 12:30",
+    "id": "generated:holly lane united u12|arden forest u12 colts aw|20/09/26 10:30",
     "division_id": null,
     "division_name": "U12 Open Cup",
     "home_team_id": null,
-    "home_team": "Silhill U12 Lions",
+    "home_team": "Holly Lane United U12",
     "away_team_id": null,
-    "away_team": "Maypole U12 Colts",
-    "date": "20/09/26 12:30",
+    "away_team": "Arden Forest U12 Colts AW",
+    "date": "20/09/26 10:30",
     "status": null,
     "raw": {
-      "fixtureDateTime": "20/09/26 12:30",
-      "homeTeam": "Silhill U12 Lions",
-      "awayTeam": "Maypole U12 Colts",
-      "location": "TUDOR GRANGE ACADEMY SOLIHULL 3G Pitch 1C/D - 12:30PM",
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Holly Lane United U12",
+      "awayTeam": "Arden Forest U12 Colts AW",
+      "location": "THE LANES COMMUNITY HUB AT KENDRICK PARK Pitch 5 - 10:30AM",
       "competition": "U12 Open Cup"
     }
   },
   {
-    "id": "generated:bartley reds u12 south|knowle u12 jackals|20/09/26 14:00",
+    "id": "generated:knowle u12 wolves|unity sport club u12 eagles|20/09/26 10:30",
     "division_id": null,
     "division_name": "U12 Open Cup",
     "home_team_id": null,
-    "home_team": "Bartley Reds U12 South",
+    "home_team": "Knowle U12 Wolves",
     "away_team_id": null,
-    "away_team": "Knowle U12 Jackals",
+    "away_team": "Unity Sport Club U12 Eagles",
+    "date": "20/09/26 10:30",
+    "status": null,
+    "raw": {
+      "fixtureDateTime": "20/09/26 10:30",
+      "homeTeam": "Knowle U12 Wolves",
+      "awayTeam": "Unity Sport Club U12 Eagles",
+      "location": "WEST WARWICKSHIRE SPORTS COMPLEX Pitch 3 - 10:30AM",
+      "competition": "U12 Open Cup"
+    }
+  },
+  {
+    "id": "generated:a f c chelmsley u12 reds|castle vale panthers u12|20/09/26 14:00",
+    "division_id": null,
+    "division_name": "U12 Open Cup",
+    "home_team_id": null,
+    "home_team": "A F C Chelmsley U12 Reds",
+    "away_team_id": null,
+    "away_team": "Castle Vale Panthers U12",
     "date": "20/09/26 14:00",
     "status": null,
     "raw": {
       "fixtureDateTime": "20/09/26 14:00",
-      "homeTeam": "Bartley Reds U12 South",
-      "awayTeam": "Knowle U12 Jackals",
-      "location": "LORDSWOOD GIRLS SCHOOL 3G Pitch 1C/D - 14:00PM",
-      "competition": "U12 Open Cup"
-    }
-  },
-  {
-    "id": "generated:sutton coldfield town juniors u12 red|olton ravens u12 ta|20/09/26 14:00",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
-    "home_team_id": null,
-    "home_team": "Sutton Coldfield Town Juniors U12 Red",
-    "away_team_id": null,
-    "away_team": "Olton Ravens U12 TA",
-    "date": "20/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 14:00",
-      "homeTeam": "Sutton Coldfield Town Juniors U12 Red",
-      "awayTeam": "Olton Ravens U12 TA",
-      "location": "BISHOP WALSH CATHOLIC SCHOOL Pitch 6 - 14:00PM",
+      "homeTeam": "A F C Chelmsley U12 Reds",
+      "awayTeam": "Castle Vale Panthers U12",
+      "location": "CHELMSLEY WOOD ONWARD CLUB Pitch 3 - 14:00PM",
       "competition": "U12 Open Cup"
     }
   },
@@ -9447,186 +9627,6 @@
       "awayTeam": "Bartley Reds U12 Girls South",
       "location": "ARTHUR FARRELL MEMORIAL GROUND Pitch 5 - 12:00PM",
       "competition": "U12 Division 14"
-    }
-  },
-  {
-    "id": "generated:arden forest u12 girls phoenix|waseley warriors u12|20/09/26 09:30",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
-    "home_team_id": null,
-    "home_team": "Arden Forest U12 Girls Phoenix",
-    "away_team_id": null,
-    "away_team": "Waseley Warriors U12",
-    "date": "20/09/26 09:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 09:30",
-      "homeTeam": "Arden Forest U12 Girls Phoenix",
-      "awayTeam": "Waseley Warriors U12",
-      "location": "TUDOR GRANGE ACADEMY KINGSHURST 3G Pitch 1C/D - 09:30AM",
-      "competition": "U12 Open Cup"
-    }
-  },
-  {
-    "id": "generated:kings eleven u12|maypole u12 united|20/09/26 10:00",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
-    "home_team_id": null,
-    "home_team": "Kings Eleven U12",
-    "away_team_id": null,
-    "away_team": "Maypole U12 United",
-    "date": "20/09/26 10:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:00",
-      "homeTeam": "Kings Eleven U12",
-      "awayTeam": "Maypole U12 United",
-      "location": "WAKE GREEN PLAYING FIELDS Pitch 2 - 10:00AM",
-      "competition": "U12 Open Cup"
-    }
-  },
-  {
-    "id": "generated:holly lane united u12|arden forest u12 colts aw|20/09/26 10:30",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
-    "home_team_id": null,
-    "home_team": "Holly Lane United U12",
-    "away_team_id": null,
-    "away_team": "Arden Forest U12 Colts AW",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Holly Lane United U12",
-      "awayTeam": "Arden Forest U12 Colts AW",
-      "location": "THE LANES COMMUNITY HUB AT KENDRICK PARK Pitch 5 - 10:30AM",
-      "competition": "U12 Open Cup"
-    }
-  },
-  {
-    "id": "generated:knowle u12 wolves|unity sport club u12 eagles|20/09/26 10:30",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
-    "home_team_id": null,
-    "home_team": "Knowle U12 Wolves",
-    "away_team_id": null,
-    "away_team": "Unity Sport Club U12 Eagles",
-    "date": "20/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 10:30",
-      "homeTeam": "Knowle U12 Wolves",
-      "awayTeam": "Unity Sport Club U12 Eagles",
-      "location": "WEST WARWICKSHIRE SPORTS COMPLEX Pitch 3 - 10:30AM",
-      "competition": "U12 Open Cup"
-    }
-  },
-  {
-    "id": "generated:a f c chelmsley u12 reds|castle vale panthers u12|20/09/26 14:00",
-    "division_id": null,
-    "division_name": "U12 Open Cup",
-    "home_team_id": null,
-    "home_team": "A F C Chelmsley U12 Reds",
-    "away_team_id": null,
-    "away_team": "Castle Vale Panthers U12",
-    "date": "20/09/26 14:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "20/09/26 14:00",
-      "homeTeam": "A F C Chelmsley U12 Reds",
-      "awayTeam": "Castle Vale Panthers U12",
-      "location": "CHELMSLEY WOOD ONWARD CLUB Pitch 3 - 14:00PM",
-      "competition": "U12 Open Cup"
-    }
-  },
-  {
-    "id": "generated:knowle u12 jackals|arden forest u12 girls phoenix|13/09/26 10:30",
-    "division_id": "594935678",
-    "division_name": "U12 Division 13",
-    "home_team_id": null,
-    "home_team": "Knowle U12 Jackals",
-    "away_team_id": null,
-    "away_team": "Arden Forest U12 Girls Phoenix",
-    "date": "13/09/26 10:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 10:30",
-      "homeTeam": "Knowle U12 Jackals",
-      "awayTeam": "Arden Forest U12 Girls Phoenix",
-      "location": "WEST WARWICKSHIRE SPORTS COMPLEX Pitch 3 - 10:30AM",
-      "competition": "U12 Division 13"
-    }
-  },
-  {
-    "id": "generated:maypole u12 united|kings heath concorde juniors u12|13/09/26 11:00",
-    "division_id": "594935678",
-    "division_name": "U12 Division 13",
-    "home_team_id": null,
-    "home_team": "Maypole U12 United",
-    "away_team_id": null,
-    "away_team": "Kings Heath Concorde Juniors U12",
-    "date": "13/09/26 11:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:00",
-      "homeTeam": "Maypole U12 United",
-      "awayTeam": "Kings Heath Concorde Juniors U12",
-      "location": "CHRIST CHURCH SECONDARY ACADEMY 3G Pitch 1A/B - 11:00AM",
-      "competition": "U12 Division 13"
-    }
-  },
-  {
-    "id": "generated:l p a u12|holly lane united u12|13/09/26 11:30",
-    "division_id": "594935678",
-    "division_name": "U12 Division 13",
-    "home_team_id": null,
-    "home_team": "L P A U12",
-    "away_team_id": null,
-    "away_team": "Holly Lane United U12",
-    "date": "13/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:30",
-      "homeTeam": "L P A U12",
-      "awayTeam": "Holly Lane United U12",
-      "location": "WASELEY HILLS HIGH SCHOOL Pitch 1 - 11:30AM",
-      "competition": "U12 Division 13"
-    }
-  },
-  {
-    "id": "generated:unity sport club u12 eagles|silhill u12 lions|13/09/26 11:30",
-    "division_id": "594935678",
-    "division_name": "U12 Division 13",
-    "home_team_id": null,
-    "home_team": "Unity Sport Club U12 Eagles",
-    "away_team_id": null,
-    "away_team": "Silhill U12 Lions",
-    "date": "13/09/26 11:30",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 11:30",
-      "homeTeam": "Unity Sport Club U12 Eagles",
-      "awayTeam": "Silhill U12 Lions",
-      "location": "MILL LANE Pitch 2 - 11:30AM",
-      "competition": "U12 Division 13"
-    }
-  },
-  {
-    "id": "generated:earlswood town u12 reds|a f c chelmsley u12 reds|13/09/26 12:00",
-    "division_id": "594935678",
-    "division_name": "U12 Division 13",
-    "home_team_id": null,
-    "home_team": "Earlswood Town U12 Reds",
-    "away_team_id": null,
-    "away_team": "A F C Chelmsley U12 Reds",
-    "date": "13/09/26 12:00",
-    "status": null,
-    "raw": {
-      "fixtureDateTime": "13/09/26 12:00",
-      "homeTeam": "Earlswood Town U12 Reds",
-      "awayTeam": "A F C Chelmsley U12 Reds",
-      "location": "THE PAVILIONS (EARLSWOOD) Pitch 2 - 12:00PM",
-      "competition": "U12 Division 13"
     }
   },
   {
