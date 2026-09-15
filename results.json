@@ -8283,7 +8283,7 @@
     "home_team": "Maypole U13 Colts",
     "away_team_id": null,
     "away_team": "Castle Vale Harriers NB U13",
-    "home_score": 7,
+    "home_score": 8,
     "away_score": 3,
     "date": "Sun 13 Sept 2026 12:30",
     "raw": {
@@ -8296,7 +8296,7 @@
       "competition": "DV12",
       "homeTeam": "Maypole U13 Colts",
       "awayTeam": "Castle Vale Harriers NB U13",
-      "homeScore": 7,
+      "homeScore": 8,
       "awayScore": 3,
       "date": "Sun 13 Sept 2026 12:30",
       "venue": "CHRIST CHURCH SECONDARY ACADEMY 3G Pitch 1A/B - 12:30PM",
@@ -9323,6 +9323,36 @@
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30854354",
       "originDivisionId": "891244584",
       "originDivisionName": "U10 Group"
+    }
+  },
+  {
+    "fixture_id": "30736551",
+    "division_id": "cup:embed:OCUP",
+    "division_name": "OCUP",
+    "home_team_id": null,
+    "home_team": "M3 U15 Elite Girls",
+    "away_team_id": null,
+    "away_team": "Callowbrook Swifts Junior U14",
+    "home_score": 0,
+    "away_score": 1,
+    "date": "Sun 13 Sept 2026 14:30",
+    "raw": {
+      "source": "fulltime-official-recent-results-embed-cup",
+      "fixtureId": "30736551",
+      "divisionId": "826925904",
+      "divisionName": "U14 Division 8",
+      "divisionseason": "28253837",
+      "lrcode": "187867680",
+      "competition": "OCUP",
+      "homeTeam": "M3 U15 Elite Girls",
+      "awayTeam": "Callowbrook Swifts Junior U14",
+      "homeScore": 0,
+      "awayScore": 1,
+      "date": "Sun 13 Sept 2026 14:30",
+      "venue": "PACK MEADOW 3G - PM4 - 14:30PM",
+      "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30736551",
+      "originDivisionId": "826925904",
+      "originDivisionName": "U14 Division 8"
     }
   }
 ]
