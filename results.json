@@ -1232,6 +1232,34 @@
     }
   },
   {
+    "fixture_id": "30802211",
+    "division_id": "320011595",
+    "division_name": "U16 Division 5",
+    "home_team_id": null,
+    "home_team": "Quinton Athletic U16",
+    "away_team_id": null,
+    "away_team": "Midland Rangers U16",
+    "home_score": 6,
+    "away_score": 4,
+    "date": "Sun 13 Sept 2026 14:00",
+    "raw": {
+      "source": "fulltime-official-recent-results-embed",
+      "fixtureId": "30802211",
+      "divisionId": "320011595",
+      "divisionName": "U16 Division 5",
+      "divisionseason": "1776534",
+      "lrcode": "404576634",
+      "competition": "DIV5",
+      "homeTeam": "Quinton Athletic U16",
+      "awayTeam": "Midland Rangers U16",
+      "homeScore": 6,
+      "awayScore": 4,
+      "date": "Sun 13 Sept 2026 14:00",
+      "venue": "HADLEY STADIUM 3G Pitch 1 - 14:00PM",
+      "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30802211"
+    }
+  },
+  {
     "fixture_id": "30802229",
     "division_id": "653181343",
     "division_name": "U16 Division 6",
@@ -4321,7 +4349,7 @@
     "away_team": "Bartley Reds U13 West",
     "home_score": 3,
     "away_score": 2,
-    "date": "Sun 13 Sept 2026 11:00",
+    "date": "Under investigation - Birmingham FA",
     "raw": {
       "source": "fulltime-official-recent-results-embed",
       "fixtureId": "30776169",
@@ -4334,7 +4362,7 @@
       "awayTeam": "Bartley Reds U13 West",
       "homeScore": 3,
       "awayScore": 2,
-      "date": "Sun 13 Sept 2026 11:00",
+      "date": "Under investigation - Birmingham FA",
       "venue": "REDDITCH UNITED FOOTBALL CLUB RED2C/D - 11:00AM 3G",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30776169"
     }
@@ -7655,7 +7683,7 @@
     "home_team": "Crusaders U14",
     "away_team_id": null,
     "away_team": "A F C Chelmsley U14 Boys Red",
-    "home_score": 5,
+    "home_score": 6,
     "away_score": 2,
     "date": "Sun 13 Sept 2026 11:30",
     "raw": {
@@ -7668,7 +7696,7 @@
       "competition": "OCUP",
       "homeTeam": "Crusaders U14",
       "awayTeam": "A F C Chelmsley U14 Boys Red",
-      "homeScore": 5,
+      "homeScore": 6,
       "awayScore": 2,
       "date": "Sun 13 Sept 2026 11:30",
       "venue": "ROWHEATH PAVILION Pitch 3 - 11:30AM",
