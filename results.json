@@ -6217,10 +6217,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30802445",
-      "divisionId": "344253846",
-      "divisionName": "U16 Division 4",
-      "divisionseason": "695364809",
-      "lrcode": "407095412",
+      "divisionId": "270876621",
+      "divisionName": "U16 Division 3",
+      "divisionseason": "643983407",
+      "lrcode": "311016156",
       "competition": "Cup:",
       "homeTeam": "Paget Rangers Juniors U16",
       "awayTeam": "Alvechurch Foundation U16 SK",
@@ -6229,8 +6229,8 @@
       "date": "Sun 13 Sept 2026 12:30",
       "venue": "NORTH BIRMINGHAM ACADEMY 3G Pitch 1 - 12:30PM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30802445",
-      "originDivisionId": "344253846",
-      "originDivisionName": "U16 Division 4"
+      "originDivisionId": "270876621",
+      "originDivisionName": "U16 Division 3"
     }
   },
   {
@@ -6247,10 +6247,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30801683",
-      "divisionId": "344253846",
-      "divisionName": "U16 Division 4",
-      "divisionseason": "695364809",
-      "lrcode": "407095412",
+      "divisionId": "270876621",
+      "divisionName": "U16 Division 3",
+      "divisionseason": "643983407",
+      "lrcode": "311016156",
       "competition": "OCUP",
       "homeTeam": "Sheldon Royals U16 Eagles",
       "awayTeam": "Coleshill Town U16",
@@ -6259,8 +6259,8 @@
       "date": "Sun 13 Sept 2026 12:00",
       "venue": "KING EDWARD VI SHELDON HEATH ACADEMY KESH6 - 12:00PM 3G",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30801683",
-      "originDivisionId": "344253846",
-      "originDivisionName": "U16 Division 4"
+      "originDivisionId": "270876621",
+      "originDivisionName": "U16 Division 3"
     }
   },
   {
