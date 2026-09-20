@@ -1484,6 +1484,34 @@
     }
   },
   {
+    "fixture_id": "30867373",
+    "division_id": "515441887",
+    "division_name": "U16 Division 7",
+    "home_team_id": null,
+    "home_team": "O D W Lions U16",
+    "away_team_id": null,
+    "away_team": "Sutton Coldfield Town Juniors U16 Green",
+    "home_score": 2,
+    "away_score": 1,
+    "date": "Sun 20 Sept 2026 10:00",
+    "raw": {
+      "source": "fulltime-official-recent-results-embed",
+      "fixtureId": "30867373",
+      "divisionId": "515441887",
+      "divisionName": "U16 Division 7",
+      "divisionseason": "601699382",
+      "lrcode": "452052837",
+      "competition": "DIV7",
+      "homeTeam": "O D W Lions U16",
+      "awayTeam": "Sutton Coldfield Town Juniors U16 Green",
+      "homeScore": 2,
+      "awayScore": 1,
+      "date": "Sun 20 Sept 2026 10:00",
+      "venue": "DOE BANK PARK Pitch 1 - 10:00AM",
+      "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30867373"
+    }
+  },
+  {
     "fixture_id": "30769483",
     "division_id": "41912590",
     "division_name": "U15 Premier Division",
@@ -6517,10 +6545,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30735631",
-      "divisionId": "230541546",
-      "divisionName": "U14 Division 2",
-      "divisionseason": "583998086",
-      "lrcode": "920783230",
+      "divisionId": "104724903",
+      "divisionName": "U14 Division 1",
+      "divisionseason": "90381601",
+      "lrcode": "809379238",
       "competition": "OCUP",
       "homeTeam": "Norton Lindsey Juniors U14",
       "awayTeam": "Sutton United U14 Panthers",
@@ -6529,8 +6557,8 @@
       "date": "Sun 13 Sept 2026 11:00",
       "venue": "THE KINGSLEY SCHOOL PLAYING FIELDS Pitch 1 - 11:00AM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30735631",
-      "originDivisionId": "230541546",
-      "originDivisionName": "U14 Division 2"
+      "originDivisionId": "104724903",
+      "originDivisionName": "U14 Division 1"
     }
   },
   {
@@ -6547,10 +6575,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30735632",
-      "divisionId": "230541546",
-      "divisionName": "U14 Division 2",
-      "divisionseason": "583998086",
-      "lrcode": "920783230",
+      "divisionId": "104724903",
+      "divisionName": "U14 Division 1",
+      "divisionseason": "90381601",
+      "lrcode": "809379238",
       "competition": "OCUP",
       "homeTeam": "Sutton Coldfield Town Juniors U14 Reds",
       "awayTeam": "Sutton Colron Town U14 Bears",
@@ -6559,8 +6587,8 @@
       "date": "Sun 13 Sept 2026 10:00",
       "venue": "BISHOP WALSH CATHOLIC SCHOOL Pitch 9 - 10:00AM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30735632",
-      "originDivisionId": "230541546",
-      "originDivisionName": "U14 Division 2"
+      "originDivisionId": "104724903",
+      "originDivisionName": "U14 Division 1"
     }
   },
   {
@@ -6577,10 +6605,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30735633",
-      "divisionId": "230541546",
-      "divisionName": "U14 Division 2",
-      "divisionseason": "583998086",
-      "lrcode": "920783230",
+      "divisionId": "104724903",
+      "divisionName": "U14 Division 1",
+      "divisionseason": "90381601",
+      "lrcode": "809379238",
       "competition": "OCUP",
       "homeTeam": "Wolston Juniors U14",
       "awayTeam": "T T Elite U14",
@@ -6589,8 +6617,8 @@
       "date": "Sun 13 Sept 2026 10:30",
       "venue": "WOLSTON LEISURE & COMMUNITY CENTRE Pitch 3 - 10:30AM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30735633",
-      "originDivisionId": "230541546",
-      "originDivisionName": "U14 Division 2"
+      "originDivisionId": "104724903",
+      "originDivisionName": "U14 Division 1"
     }
   },
   {
@@ -7417,10 +7445,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30737931",
-      "divisionId": "147165170",
-      "divisionName": "U14 Division 11",
-      "divisionseason": "920360710",
-      "lrcode": "457460797",
+      "divisionId": "826925904",
+      "divisionName": "U14 Division 8",
+      "divisionseason": "28253837",
+      "lrcode": "187867680",
       "competition": "OCUP",
       "homeTeam": "F C Elite U14 Ultras",
       "awayTeam": "Kings Heath Panthers U14 AK",
@@ -7429,8 +7457,8 @@
       "date": "Sun 13 Sept 2026 12:30",
       "venue": "TWICKENHAM PARK Pitch 1 - 12:30PM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30737931",
-      "originDivisionId": "147165170",
-      "originDivisionName": "U14 Division 11"
+      "originDivisionId": "826925904",
+      "originDivisionName": "U14 Division 8"
     }
   },
   {
@@ -7567,10 +7595,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30737932",
-      "divisionId": "147165170",
-      "divisionName": "U14 Division 11",
-      "divisionseason": "920360710",
-      "lrcode": "457460797",
+      "divisionId": "782530406",
+      "divisionName": "U14 Division 9",
+      "divisionseason": "826752773",
+      "lrcode": "919674866",
       "competition": "OCUP",
       "homeTeam": "Kings Eleven U14",
       "awayTeam": "Olton Ravens U14 JM",
@@ -7579,8 +7607,8 @@
       "date": "Sun 13 Sept 2026 14:00",
       "venue": "WAKE GREEN PLAYING FIELDS Pitch 1 - 14:00PM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30737932",
-      "originDivisionId": "147165170",
-      "originDivisionName": "U14 Division 11"
+      "originDivisionId": "782530406",
+      "originDivisionName": "U14 Division 9"
     }
   },
   {
@@ -7687,10 +7715,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30736638",
-      "divisionId": "147165170",
-      "divisionName": "U14 Division 11",
-      "divisionseason": "920360710",
-      "lrcode": "457460797",
+      "divisionId": "259163990",
+      "divisionName": "U14 Division 10",
+      "divisionseason": "956940618",
+      "lrcode": "56665098",
       "competition": "OCUP",
       "homeTeam": "Cottage Farm Rangers U14",
       "awayTeam": "M3 U14 Elite Girls",
@@ -7699,8 +7727,8 @@
       "date": "Sun 13 Sept 2026 10:30",
       "venue": "LIFT TAMWORTH Pitch 3 - 10:30AM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30736638",
-      "originDivisionId": "147165170",
-      "originDivisionName": "U14 Division 11"
+      "originDivisionId": "259163990",
+      "originDivisionName": "U14 Division 10"
     }
   },
   {
@@ -7717,10 +7745,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30736637",
-      "divisionId": "147165170",
-      "divisionName": "U14 Division 11",
-      "divisionseason": "920360710",
-      "lrcode": "457460797",
+      "divisionId": "259163990",
+      "divisionName": "U14 Division 10",
+      "divisionseason": "956940618",
+      "lrcode": "56665098",
       "competition": "OCUP",
       "homeTeam": "Crusaders U14",
       "awayTeam": "A F C Chelmsley U14 Boys Red",
@@ -7729,8 +7757,8 @@
       "date": "Sun 13 Sept 2026 11:30",
       "venue": "ROWHEATH PAVILION Pitch 3 - 11:30AM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30736637",
-      "originDivisionId": "147165170",
-      "originDivisionName": "U14 Division 11"
+      "originDivisionId": "259163990",
+      "originDivisionName": "U14 Division 10"
     }
   },
   {
@@ -7747,10 +7775,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30736640",
-      "divisionId": "147165170",
-      "divisionName": "U14 Division 11",
-      "divisionseason": "920360710",
-      "lrcode": "457460797",
+      "divisionId": "259163990",
+      "divisionName": "U14 Division 10",
+      "divisionseason": "956940618",
+      "lrcode": "56665098",
       "competition": "OCUP",
       "homeTeam": "F C Elite U14 Kings",
       "awayTeam": "Knowle U14 Panthers",
@@ -7759,8 +7787,8 @@
       "date": "Sun 13 Sept 2026 10:00",
       "venue": "TWICKENHAM PARK Pitch 2 - 10:00AM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30736640",
-      "originDivisionId": "147165170",
-      "originDivisionName": "U14 Division 11"
+      "originDivisionId": "259163990",
+      "originDivisionName": "U14 Division 10"
     }
   },
   {
@@ -7777,10 +7805,10 @@
     "raw": {
       "source": "fulltime-official-recent-results-embed-cup",
       "fixtureId": "30736639",
-      "divisionId": "147165170",
-      "divisionName": "U14 Division 11",
-      "divisionseason": "920360710",
-      "lrcode": "457460797",
+      "divisionId": "259163990",
+      "divisionName": "U14 Division 10",
+      "divisionseason": "956940618",
+      "lrcode": "56665098",
       "competition": "OCUP",
       "homeTeam": "Sportsco U14 Lions",
       "awayTeam": "F C Elite U14 Allstars",
@@ -7789,8 +7817,8 @@
       "date": "Sun 13 Sept 2026 12:00",
       "venue": "WISHAW LANE PLAYING FIELDS Pitch 4 - 12:00PM",
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30736639",
-      "originDivisionId": "147165170",
-      "originDivisionName": "U14 Division 11"
+      "originDivisionId": "259163990",
+      "originDivisionName": "U14 Division 10"
     }
   },
   {
@@ -9381,6 +9409,36 @@
       "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30736551",
       "originDivisionId": "826925904",
       "originDivisionName": "U14 Division 8"
+    }
+  },
+  {
+    "fixture_id": "30859052",
+    "division_id": "cup:embed:OCUP",
+    "division_name": "OCUP",
+    "home_team_id": null,
+    "home_team": "Hillfield AFC U12 Black",
+    "away_team_id": null,
+    "away_team": "Crusaders U12",
+    "home_score": 4,
+    "away_score": 3,
+    "date": "Sun 20 Sept 2026 10:00",
+    "raw": {
+      "source": "fulltime-official-recent-results-embed-cup",
+      "fixtureId": "30859052",
+      "divisionId": "701791789",
+      "divisionName": "U12 Division 9",
+      "divisionseason": "533614620",
+      "lrcode": "626288552",
+      "competition": "OCUP",
+      "homeTeam": "Hillfield AFC U12 Black",
+      "awayTeam": "Crusaders U12",
+      "homeScore": 4,
+      "awayScore": 3,
+      "date": "Sun 20 Sept 2026 10:00",
+      "venue": "HILLFIELD AFC Pitch 5 - 10:00AM",
+      "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30859052",
+      "originDivisionId": "701791789",
+      "originDivisionName": "U12 Division 9"
     }
   }
 ]
