@@ -12771,39 +12771,6 @@
     }
   },
   {
-    "id": "30887456",
-    "division_id": null,
-    "division_name": "LCTS",
-    "home_team_id": null,
-    "home_team": "Harborne Youth U12 Colts",
-    "away_team_id": null,
-    "away_team": "Starlands Warriors U12 Lions",
-    "date": "2026-09-27T11:00:00",
-    "status": null,
-    "raw": {
-      "source": "fulltime-official-fixture-embed",
-      "fixtureId": "30887456",
-      "divisionId": "753105373",
-      "divisionName": "U12 Division 5",
-      "divisionseason": "621391580",
-      "lrcode": "449529781",
-      "competition": "LCTS",
-      "homeTeam": "Harborne Youth U12 Colts",
-      "awayTeam": "Starlands Warriors U12 Lions",
-      "date": "2026-09-27T11:00:00",
-      "displayDate": "Sun 27 Sept 2026 11:00",
-      "venue": "LORDSWOOD GIRLS SCHOOL 3G Pitch 1A/B - 11:00AM",
-      "fixtureUrl": "https://fulltime.thefa.com/displayFixture.html?id=30887456",
-      "cells": [
-        "LCTS",
-        "Harborne Youth U12 Colts",
-        "v",
-        "Starlands Warriors U12 Lions",
-        "LORDSWOOD GIRLS SCHOOL 3G Pitch 1A/B - 11:00AM"
-      ]
-    }
-  },
-  {
     "id": "30887647",
     "division_id": null,
     "division_name": "LCTS",
